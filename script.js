@@ -20,6 +20,7 @@ class ActivityGame {
         this.timerRunning = false;
         this.timerEnabled = true;
         this.matureContentEnabled = false;
+        this.darkModeEnabled = false;
         this.currentLanguage = 'en';
         this.matureCardsData = [];
         
@@ -50,6 +51,7 @@ class ActivityGame {
                 playersLabel: 'Players',
                 newGame: 'New Game',
                 matureContent: 'Include Mature Content (18+)',
+                darkMode: 'Dark Mode',
                 Draw: 'Draw',
                 Speak: 'Speak',
                 Show: 'Show'
@@ -80,6 +82,7 @@ class ActivityGame {
                 playersLabel: 'Játékosok',
                 newGame: 'Új játék',
                 matureContent: 'Felnőtt tartalom (18+)',
+                darkMode: 'Sötét mód',
                 Draw: 'Rajzolás',
                 Speak: 'Körülírás',
                 Show: 'Mutogatás'
@@ -174,6 +177,12 @@ class ActivityGame {
             this.loadMatureCards();
             this.saveSettings();
         });
+        
+        document.getElementById('dark-mode').addEventListener('change', (e) => {
+            this.darkModeEnabled = e.target.checked;
+            this.updateDarkMode();
+            this.saveSettings();
+        });
     }
 
     loadSettings() {
@@ -198,12 +207,20 @@ class ActivityGame {
                 this.loadMatureCards();
             }
         }
+        
+        const savedDarkMode = localStorage.getItem('activityGame_darkMode');
+        if (savedDarkMode !== null) {
+            this.darkModeEnabled = savedDarkMode === 'true';
+            document.getElementById('dark-mode').checked = this.darkModeEnabled;
+            this.updateDarkMode();
+        }
     }
 
     saveSettings() {
         localStorage.setItem('activityGame_language', this.currentLanguage);
         localStorage.setItem('activityGame_timerEnabled', this.timerEnabled.toString());
         localStorage.setItem('activityGame_matureContent', this.matureContentEnabled.toString());
+        localStorage.setItem('activityGame_darkMode', this.darkModeEnabled.toString());
     }
 
     async loadMatureCards() {
@@ -266,6 +283,14 @@ class ActivityGame {
         const timerDisplay = document.querySelector('.timer-display');
         if (timerDisplay) {
             timerDisplay.style.display = this.timerEnabled ? 'block' : 'none';
+        }
+    }
+
+    updateDarkMode() {
+        if (this.darkModeEnabled) {
+            document.body.classList.add('dark-mode');
+        } else {
+            document.body.classList.remove('dark-mode');
         }
     }
 

@@ -715,3 +715,210 @@ button {
     border: 1px solid #f5c6cb;
     text-align: center;
 }
+
+/* Dark Mode Styles */
+body.dark-mode {
+    background: #000000;
+    color: #ffffff;
+}
+
+body.dark-mode .container {
+    background: #000000;
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.1);
+}
+
+/* Setup Screen Dark Mode */
+body.dark-mode #setup-screen h1 {
+    color: #ffffff;
+}
+
+/* Settings Section Dark Mode */
+body.dark-mode .settings-section {
+    background: #1a1a1a;
+    border-color: #333333;
+}
+
+body.dark-mode .settings-section h3 {
+    color: #ffffff;
+}
+
+body.dark-mode .setting-item label {
+    color: #cccccc;
+}
+
+body.dark-mode #language-select {
+    background: #222222;
+    color: #ffffff;
+    border-color: #333333;
+}
+
+body.dark-mode #language-select:focus {
+    border-color: #667eea;
+}
+
+body.dark-mode .checkbox-label {
+    color: #cccccc;
+}
+
+body.dark-mode .checkmark {
+    background: #222222;
+    border-color: #333333;
+}
+
+body.dark-mode .checkbox-label input[type="checkbox"]:checked + .checkmark {
+    background: #667eea;
+    border-color: #667eea;
+}
+
+/* Players Section Dark Mode */
+body.dark-mode .players-section h2 {
+    color: #ffffff;
+}
+
+body.dark-mode .player-item {
+    background: #1a1a1a;
+    border-color: #333333;
+}
+
+body.dark-mode .player-item:hover {
+    border-color: #667eea;
+}
+
+body.dark-mode .player-name {
+    color: #ffffff;
+}
+
+body.dark-mode #player-name {
+    background: #222222;
+    color: #ffffff;
+    border-color: #333333;
+}
+
+body.dark-mode #player-name:focus {
+    border-color: #667eea;
+}
+
+body.dark-mode #player-name::placeholder {
+    color: #888888;
+}
+
+/* Game Screen Dark Mode */
+body.dark-mode .game-header h2 {
+    color: #ffffff;
+}
+
+body.dark-mode .current-player {
+    color: #ffffff;
+    background: #1a1a1a;
+    border-color: #667eea;
+}
+
+body.dark-mode .round-info {
+    color: #cccccc;
+}
+
+/* Timer Dark Mode */
+body.dark-mode .timer {
+    color: #667eea;
+    background: #222222;
+    border-color: #667eea;
+    background: conic-gradient(#667eea 0deg, #667eea var(--progress, 360deg), #333333 var(--progress, 360deg), #333333 360deg);
+}
+
+body.dark-mode .timer::before {
+    background: #222222;
+}
+
+body.dark-mode .timer-label {
+    color: #cccccc;
+}
+
+/* Card Display Dark Mode */
+body.dark-mode .card {
+    background: #1a1a1a;
+    border-color: #667eea;
+    box-shadow: 0 8px 25px rgba(102, 126, 234, 0.3);
+}
+
+body.dark-mode .card-header {
+    color: #cccccc;
+}
+
+body.dark-mode .card-word {
+    color: #ffffff;
+}
+
+/* Scoreboard Dark Mode */
+body.dark-mode .scoreboard {
+    background: #1a1a1a;
+    border-color: #333333;
+}
+
+body.dark-mode .scoreboard h3 {
+    color: #ffffff;
+}
+
+body.dark-mode .score-item {
+    background: #222222;
+    border-color: #333333;
+}
+
+body.dark-mode .score-item.current {
+    border-color: #667eea;
+    background: #1a2a4a;
+}
+
+body.dark-mode .score-name {
+    color: #ffffff;
+}
+
+body.dark-mode .score-points {
+    color: #667eea;
+}
+
+body.dark-mode .task-dot {
+    background: #333333;
+}
+
+body.dark-mode .task-dot.active {
+    background: #667eea;
+}
+
+body.dark-mode .score-item.current .task-dot.active {
+    background: #28a745;
+}
+
+/* End Screen Dark Mode */
+body.dark-mode #end-screen h1 {
+    color: #ffffff;
+}
+
+body.dark-mode .game-stats {
+    background: #1a1a1a;
+    border-color: #333333;
+}
+
+body.dark-mode .game-stats p {
+    color: #cccccc;
+}
+
+body.dark-mode .game-stats span {
+    color: #667eea;
+}
+
+/* Error Message Dark Mode */
+body.dark-mode .error-message {
+    background: #4a1a1a;
+    color: #ff9999;
+    border-color: #663333;
+}
+
+/* Time Up Animation Dark Mode */
+body.dark-mode .container.time-up {
+    animation: blinkDark 0.5s ease-in-out 3;
+}
+
+@keyframes blinkDark {
+    0%, 100% { background-color: #111111; }
+    50% { background-color: #330000; }
+}
