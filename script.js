@@ -509,7 +509,7 @@ class ActivityGame {
                 this.cardWordDisplay.classList.add('hidden');
                 this.showWordBtn.style.display = 'block';
             }
-        }, 10000); // Hide after 10 seconds
+        }, 5000); // Hide after 5 seconds
     }
 
     clearWordHideTimer() {
@@ -682,12 +682,13 @@ class ActivityGame {
 
     timeUp() {
         this.stopTimer();
+        // Start sound and visual blinking simultaneously
         this.playTimeUpSound();
         this.blinkBackground();
     }
 
     playTimeUpSound() {
-        // Play 3 chimes using Web Audio API
+        // Play 3 loud chimes using Web Audio API
         try {
             const audioContext = new (window.AudioContext || window.webkitAudioContext)();
             
@@ -703,7 +704,7 @@ class ActivityGame {
                 oscillator.type = 'sine';
                 
                 gainNode.gain.setValueAtTime(0, audioContext.currentTime + (i * 0.3));
-                gainNode.gain.linearRampToValueAtTime(0.3, audioContext.currentTime + (i * 0.3) + 0.05);
+                gainNode.gain.linearRampToValueAtTime(0.8, audioContext.currentTime + (i * 0.3) + 0.05);
                 gainNode.gain.exponentialRampToValueAtTime(0.01, audioContext.currentTime + (i * 0.3) + 0.4);
                 
                 oscillator.start(audioContext.currentTime + (i * 0.3));
