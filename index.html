@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Activity Card Game</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Setup Screen -->
+        <div id="setup-screen" class="screen active">
+            <h1 data-text="title">Activity Card Game</h1>
+            
+            <!-- Settings Section -->
+            <div class="settings-section">
+                <h3 data-text="settings">Settings</h3>
+                <div class="setting-item">
+                    <label for="language-select" data-text="language">Language:</label>
+                    <select id="language-select">
+                        <option value="en">English</option>
+                        <option value="hu">Magyar</option>
+                    </select>
+                </div>
+                <div class="setting-item">
+                    <label class="checkbox-label">
+                        <input type="checkbox" id="timer-enabled" checked>
+                        <span class="checkmark"></span>
+                        <span data-text="enableTimer">Enable Timer</span>
+                    </label>
+                </div>
+                <div class="setting-item">
+                    <label class="checkbox-label">
+                        <input type="checkbox" id="mature-content" unchecked>
+                        <span class="checkmark"></span>
+                        <span data-text="matureContent">Include Mature Content (18+)</span>
+                    </label>
+                </div>
+            </div>
+            
+            <div class="players-section">
+                <h2 data-text="players">Players</h2>
+                <div id="players-list"></div>
+                <div class="player-controls">
+                    <input type="text" id="player-name" data-placeholder="enterPlayerName" placeholder="Enter player name" maxlength="20">
+                    <button id="add-player" data-text="addPlayer">Add Player</button>
+                </div>
+                <div class="game-controls">
+                    <button id="start-game" data-text="startGame" disabled>Start Game</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Game Screen -->
+        <div id="game-screen" class="screen">
+            <div class="game-header">
+                <div class="round-info">
+                    <span><span data-text="round">Round</span>: <span id="round-number">1</span></span>
+                    <span><span data-text="cardsUsed">Cards Used</span>: <span id="cards-used">0</span></span>
+                </div>
+            </div>
+
+            <div class="scoreboard">
+                <h3 data-text="scores">Scores</h3>
+                <div id="scores-list"></div>
+            </div>
+
+            <div class="timer-display">
+                <div class="timer" id="timer"><span>70</span></div>
+                <div class="timer-label" data-text="seconds">seconds</div>
+            </div>
+
+            <div class="card-display">
+                <div class="card">
+                    <div class="card-header">
+                        <span class="card-number"><span data-text="cardNumber">Card #</span><span id="card-number"></span></span>
+                        <span class="category"><span data-text="category">Category</span>: <span id="card-category"></span></span>
+                    </div>
+                    <div class="card-task" id="card-task">
+                        <span class="task-icon" id="task-icon">✏️</span>
+                        <span class="task-text" id="task-text">Draw</span>
+                    </div>
+                    <div class="card-word-container">
+                        <button id="show-word-btn" class="show-word-btn" data-text="showWord">Click to Show Word</button>
+                        <div class="card-word hidden" id="card-word"></div>
+                    </div>
+                    <div class="card-points">
+                        <span id="card-points"></span> <span data-text="points">points</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="game-controls">
+                <button id="pass-word" data-text="passWord">Pass (Get New Word)</button>
+                <div class="result-buttons">
+                    <button id="solved-btn" class="solved" data-text="solved">Solved</button>
+                    <button id="failed-btn" class="failed" data-text="failed">Failed</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- End Screen -->
+        <div id="end-screen" class="screen">
+            <h1 data-text="gameOver">Game Over!</h1>
+            <div class="game-stats">
+                <p><span data-text="totalRounds">Total rounds played</span>: <span id="final-rounds"></span></p>
+                <p><span data-text="totalCards">Total cards used</span>: <span id="final-cards-used"></span></p>
+                <p><span data-text="playersLabel">Players</span>: <span id="final-players"></span></p>
+            </div>
+            <button id="new-game" data-text="newGame">New Game</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,3964 @@
+[
+	
+	{
+		"A": "dobhártya (6)",
+		"B": "kéjgyilkos (3)",
+		"C": "mókamester (4)",
+		"D": "napszemüveg (3)",
+		"E": "szólóénekes (3)",
+		"F": "vészfék (5)",
+		"cardnumber": "45"
+	},
+	{
+		"A": "elefántbébi (6)",
+		"B": "lánc: terelőút",
+		"C": "leányanya (5)",
+		"D": "félcipő (3)",
+		"E": "gyorsfutár (4)",
+		"F": "félkör (4)",
+		"cardnumber": "24"
+	},
+	{
+		"A": "sörhab (3)",
+		"B": "lánc: faház",
+		"C": "levélszekrény (6)",
+		"D": "kelkáposzta (5)",
+		"E": "karének (4)",
+		"F": "teveszőr (4)",
+		"cardnumber": "15"
+	},
+	{
+		"A": "sasfészek (5)",
+		"B": "ólomkatona (3)",
+		"C": "bableves (4)",
+		"D": "lánc: üdvözlőlap",
+		"E": "túlkapás (6)",
+		"F": "hasonmás (5)",
+		"cardnumber": "96"
+	},
+	{
+		"A": "autóversenyző (4)",
+		"B": "pohárköszöntő (6)",
+		"C": "szamárköhögés (5)",
+		"D": "asztalitenisz (3)",
+		"E": "taposómalom (5)",
+		"F": "rím: kerek",
+		"cardnumber": "78"
+	},
+	{
+		"A": "csészealj (3)",
+		"B": "bűntudat (4)",
+		"C": "madárkalitka (4)",
+		"D": "négyszög (5)",
+		"E": "ősállapot (6)",
+		"F": "violinkulcs (3)",
+		"cardnumber": "60"
+	},
+	{
+		"A": "fogíny (4)",
+		"B": "ebédszünet (3)",
+		"C": "fogfájás (3)",
+		"D": "aktfestészet (6)",
+		"E": "nyersfordítás (4)",
+		"F": "fogvacogás (3)",
+		"cardnumber": "80"
+	},
+	{
+		"A": "elefántfóka (6)",
+		"B": "postakürt (3)",
+		"C": "sütőkemence (4)",
+		"D": "kemencepadka (3)",
+		"E": "gyümölcssaláta (4)",
+		"F": "diótörő (5)",
+		"cardnumber": "99"
+	},
+	{
+		"A": "bankház (3)",
+		"B": "diákszerelem (4)",
+		"C": "tigrisbukfenc (4)",
+		"D": "árhullám (5)",
+		"E": "szépséghiba (4)",
+		"F": "makimajom (6)",
+		"cardnumber": "105"
+	},
+	{
+		"A": "csemegeuborka (5)",
+		"B": "mellékutca (3)",
+		"C": "lőfegyver (5)",
+		"D": "könyvhét (5)",
+		"E": "kilátótorony (3)",
+		"F": "mézescsók (6)",
+		"cardnumber": "13"
+	},
+	{
+		"A": "sziklaomlás (4)",
+		"B": "díszmagyar (3)",
+		"C": "filmsztár (5)",
+		"D": "akasztófakötél (4)",
+		"E": "zöldségárú (3)",
+		"F": "fotelágy (6)",
+		"cardnumber": "97"
+	},
+	{
+		"A": "szalmazsák (5)",
+		"B": "költségvonzat (3)",
+		"C": "kínpad (4)",
+		"D": "gázlámpa (4)",
+		"E": "szalmaláng (6)",
+		"F": "hajgyökér (3)",
+		"cardnumber": "110"
+	},
+	{
+		"A": "mozdonyvezető (3)",
+		"B": "lánc: nyelőcső",
+		"C": "ékszíj (6)",
+		"D": "bőgőmasina (5)",
+		"E": "súlypont (3)",
+		"F": "pezsgősüveg (4)",
+		"cardnumber": "100"
+	},
+	{
+		"A": "padlóburkolat (4)",
+		"B": "állatmese (3)",
+		"C": "kézifék (6)",
+		"D": "szobafogság (5)",
+		"E": "szentírás (4)",
+		"F": "körutazás (4)",
+		"cardnumber": "90"
+	},
+	{
+		"A": "úszómedence (3)",
+		"B": "izzasztókúra (4)",
+		"C": "szappanbuborék (3)",
+		"D": "árnyékszék (5)",
+		"E": "szaktekinytély (4)",
+		"F": "orrcimpa (6)",
+		"cardnumber": "70"
+	},
+	{
+		"A": "gerincoszlop (5)",
+		"B": "szemfényvesztés (6)",
+		"C": "műlesiklás (4)",
+		"D": "csavaralátét (5)",
+		"E": "hangmagasság (3)",
+		"F": "tornanadrág (4)",
+		"cardnumber": "72"
+	},
+	{
+		"A": "faláb (3)",
+		"B": "rézkarc (4)",
+		"C": "almapüré (4)",
+		"D": "erdősáv (5)",
+		"E": "eszménykép (6)",
+		"F": "hajtűkanyar (6)",
+		"cardnumber": "23"
+	},
+	{
+		"A": "almamag (3)",
+		"B": "altatás (4)",
+		"C": "faiskola (5)",
+		"D": "mezítláb (6)",
+		"E": "esélyegyenlőség (4)",
+		"F": "lovaglóostor (5)",
+		"cardnumber": "31"
+	},
+	{
+		"A": "aranyeső (4)",
+		"B": "aranypor (3)",
+		"C": "gumilabda (5)",
+		"D": "nadrágszíj (4)",
+		"E": "lánc: szamártej",
+		"F": "paprikajancsi (6)",
+		"cardnumber": "33"
+	},
+	{
+		"A": "hófehérke (6)",
+		"B": "rekordkísérlet (4)",
+		"C": "fuvolaszó (3)",
+		"D": "versenyszám (5)",
+		"E": "tiszteletdíj (4)",
+		"F": "lánc: szellemóriás",
+		"cardnumber": "43"
+	},
+	{
+		"A": "géppisztoly (5)",
+		"B": "naplopó (4)",
+		"C": "tériszony (5)",
+		"D": "teniszpálya (6)",
+		"E": "rím: enni",
+		"F": "medvetánc (6)",
+		"cardnumber": "14"
+	},
+	{
+		"A": "kötőfék (6)",
+		"B": "öttusa (3)",
+		"C": "labdarúgás (3)",
+		"D": "szövetruha (4)",
+		"E": "mélyépítés (5)",
+		"F": "lánc: talpfa",
+		"cardnumber": "4"
+	},
+	{
+		"A": "lánc: lombfűrész",
+		"B": "rajzfilm (6)",
+		"C": "újságkihordó (4)",
+		"D": "szócső (5)",
+		"E": "hullámvasút (3)",
+		"F": "felvonó (4)",
+		"cardnumber": "103"
+	},
+	{
+		"A": "mellcsont (4)",
+		"B": "átalánydíj (4)",
+		"C": "karácsonyfa (3)",
+		"D": "egérút (4)",
+		"E": "bőbeszédűség (6)",
+		"F": "elefánttehén (6)",
+		"cardnumber": "93"
+	},
+	{
+		"A": "rádiókészülék (6)",
+		"B": "rádióadó (3)",
+		"C": "álomtündér (5)",
+		"D": "díjbirkozó (5)",
+		"E": "mondatrész (4)",
+		"F": "mellvéd (4)",
+		"cardnumber": "83"
+	},
+	{
+		"A": "izzólámpa (3)",
+		"B": "habzóbor (3)",
+		"C": "rím: vezető",
+		"D": "egerészölyv (5)",
+		"E": "csapdaállítás (3)",
+		"F": "sarkantyúpengetés (6)",
+		"cardnumber": "30"
+	},
+	{
+		"A": "lánc: segédrendőr",
+		"B": "borotvaél (6)",
+		"C": "járókerék (4)",
+		"D": "gázcsap (4)",
+		"E": "gázgyújtó (3)",
+		"F": "gázálarc (4)",
+		"cardnumber": "20"
+	},
+	{
+		"A": "vadászbombázó (4)",
+		"B": "válaszút (3)",
+		"C": "térdkalács (3)",
+		"D": "felderítőrepülő (5)",
+		"E": "gyermektartás (4)",
+		"F": "szemizom (6)",
+		"cardnumber": "92"
+	},
+	{
+		"A": "zsebpénz (3)",
+		"B": "zsebkönyv (3)",
+		"C": "mosogató (4)",
+		"D": "városnegyed (5)",
+		"E": "rím: üres",
+		"F": "körömcipő (6)",
+		"cardnumber": "61"
+	},
+	{
+		"A": "nyúlszörme (6)",
+		"B": "nyakék (4)",
+		"C": "lélegzetvétel (5)",
+		"D": "csontfűrész (3)",
+		"E": "vándorpatkány (4)",
+		"F": "fonalkereszt (5)",
+		"cardnumber": "34"
+	},
+	{
+		"A": "rím: haj",
+		"B": "holtverseny (4)",
+		"C": "gyermekágy (3)",
+		"D": "szénaboglya (6)",
+		"E": "háttér (4)",
+		"F": "vízbefúlás (5)",
+		"cardnumber": "69"
+	},
+	{
+		"A": "csőtörés (3)",
+		"B": "birkatermészet (4)",
+		"C": "sebhely (5)",
+		"D": "szemhéjfesték (3)",
+		"E": "tündérmese (6)",
+		"F": "könyvmoly (5)",
+		"cardnumber": "75"
+	},
+	{
+		"A": "szülőház (5)",
+		"B": "terelőút (4)",
+		"C": "gyakorlótér (5)",
+		"D": "csigasor (3)",
+		"E": "kikötőparancsnokság (6)",
+		"F": "rím: köszvény",
+		"cardnumber": "65"
+	},
+	{
+		"A": "járdasziget (5)",
+		"B": "ellenjavaslat (4)",
+		"C": "vándorbot (6)",
+		"D": "szárítókötél (3)",
+		"E": "értéknövekedés (4)",
+		"F": "nyakleves (5)",
+		"cardnumber": "79"
+	},
+	{
+		"A": "asztalterítő (3)",
+		"B": "illatszer (4)",
+		"C": "pokolfajzat (5)",
+		"D": "fűrészhal (3)",
+		"E": "bombasiker (4)",
+		"F": "kábítószer (6)",
+		"cardnumber": "82"
+	},
+	{
+		"A": "elemlámpa (6)",
+		"B": "rím: has",
+		"C": "teáskanna (6)",
+		"D": "aluljáró (5)",
+		"E": "albérlő (3)",
+		"F": "alsónadrág (4)",
+		"cardnumber": "6"
+	},
+	{
+		"A": "simafa (6)",
+		"B": "játékfilm (3)",
+		"C": "rím: tartalék",
+		"D": "sörhas (3)",
+		"E": "sörmelegítő (4)",
+		"F": "félholt (4)",
+		"cardnumber": "50"
+	},
+	{
+		"A": "sugárhajtás (6)",
+		"B": "lánc: vendéglátó",
+		"C": "tollasbál (3)",
+		"D": "jégvirág (3)",
+		"E": "fürdőmester (3)",
+		"F": "fürdőnadrág (4)",
+		"cardnumber": "67"
+	},
+	{
+		"A": "tűlyuk (6)",
+		"B": "vadállat (3)",
+		"C": "juhászkutya (4)",
+		"D": "puskapor (5)",
+		"E": "lovagterem (3)",
+		"F": "kutyaharapás (4)",
+		"cardnumber": "77"
+	},
+	{
+		"A": "királysas (5)",
+		"B": "borkimérés (3)",
+		"C": "csikóslegény (6)",
+		"D": "mellbimbó (3)",
+		"E": "vasalógép (3)",
+		"F": "kézjegy (4)",
+		"cardnumber": "95"
+	},
+	{
+		"A": "szalmaözvegy (6)",
+		"B": "üveghulladék (3)",
+		"C": "porckorong (5)",
+		"D": "sátortábor (4)",
+		"E": "félgömb (4)",
+		"F": "kávészürő (5)",
+		"cardnumber": "1"
+	},
+	{
+		"A": "rím: vér",
+		"B": "kenyérpirító (4)",
+		"C": "tetszhalott (6)",
+		"D": "kormányrúd (4)",
+		"E": "státusszimbólum (4)",
+		"F": "kerékpárcsengő (5)",
+		"cardnumber": "84"
+	},
+	{
+		"A": "tartálykocsi (4)",
+		"B": "részmunkaidő (3)",
+		"C": "gyomorégés (5)",
+		"D": "homloküreg (6)",
+		"E": "homokzsák (3)",
+		"F": "tükörtojás (3)",
+		"cardnumber": "74"
+	},
+	{
+		"A": "szemtanú (5)",
+		"B": "dédanya (3)",
+		"C": "rím: szeretet",
+		"D": "kerékpáros (3)",
+		"E": "rablógazdálkodás (4)",
+		"F": "teniszütő (6)",
+		"cardnumber": "73"
+	},
+	{
+		"A": "melegágy (4)",
+		"B": "morzejel (3)",
+		"C": "gumimatrac (4)",
+		"D": "szőrszálhasogatás (6)",
+		"E": "gyógyhatás (4)",
+		"F": "léggömb (3)",
+		"cardnumber": "41"
+	},
+	{
+		"A": "gyúródeszka (4)",
+		"B": "olajsejk (3)",
+		"C": "prémvadász (5)",
+		"D": "útlevélkép (4)",
+		"E": "kvarcóra (6)",
+		"F": "sztepptánc (6)",
+		"cardnumber": "44"
+	},
+	{
+		"A": "hőhullám (5)",
+		"B": "hajolaj (3)",
+		"C": "lábnyom (5)",
+		"D": "lánchegység (3)",
+		"E": "szarkaláb (6)",
+		"F": "fagyosszentek (6)",
+		"cardnumber": "66"
+	},
+	{
+		"A": "rím: láb",
+		"B": "hatókör (3)",
+		"C": "röplabda (6)",
+		"D": "hazaszeretet (5)",
+		"E": "pánik (4)",
+		"F": "sztriptíztánc (3)",
+		"cardnumber": "40"
+	},
+	{
+		"A": "szenteste (3)",
+		"B": "munkaszerződés (4)",
+		"C": "hütőház (3)",
+		"D": "gomblyuk (3)",
+		"E": "durrdefekt (6)",
+		"F": "csengettyűszó (6)",
+		"cardnumber": "18"
+	},
+	{
+		"A": "derékfájás (4)",
+		"B": "dokumentumfilm (3)",
+		"C": "szélhámos (5)",
+		"D": "évszakok (5)",
+		"E": "sorsjáték (4)",
+		"F": "javasasszony (6)",
+		"cardnumber": "54"
+	},
+	{
+		"A": "kenyértörés (6)",
+		"B": "színrevitel (4)",
+		"C": "rétestészta (5)",
+		"D": "ádámcsutka (3)",
+		"E": "féksaru (4)",
+		"F": "lánc: aszúbor",
+		"cardnumber": "87"
+	},
+	{
+		"A": "tűpárna (4)",
+		"B": "hideglelés (3)",
+		"C": "kölnivíz (6)",
+		"D": "tetőcserép (3)",
+		"E": "illatfelhő (4)",
+		"F": "porcelánbaba (5)",
+		"cardnumber": "35"
+	},
+	{
+		"A": "szakember (5)",
+		"B": "szabadkőműves (6)",
+		"C": "tévéasztal (3)",
+		"D": "tűzjelző (3)",
+		"E": "váltóláz (4)",
+		"F": "sebesvonat (5)",
+		"cardnumber": "108"
+	},
+	{
+		"A": "rím: ruha",
+		"B": "légtornász (4)",
+		"C": "könnygáz (6)",
+		"D": "pofaszakáll (3)",
+		"E": "gyöngybetű (4)",
+		"F": "alkotóerő (5)",
+		"cardnumber": "2"
+	},
+	{
+		"A": "halászcsónak (3)",
+		"B": "romhalmaz (4)",
+		"C": "ülőfürdő (6)",
+		"D": "papírtekercs (4)",
+		"E": "almabor (3)",
+		"F": "hastánc (3)",
+		"cardnumber": "64"
+	},
+	{
+		"A": "majomember (6)",
+		"B": "lánc: autóbusz",
+		"C": "gyóntatószék (4)",
+		"D": "vendégkönyv (5)",
+		"E": "fáklyahordozó (3)",
+		"F": "zsírpárna (3)",
+		"cardnumber": "107"
+	},
+	{
+		"A": "lábgombásodás (3)",
+		"B": "serdülőkor (4)",
+		"C": "házasélet (5)",
+		"D": "gátszakadás (5)",
+		"E": "hölgyválasz (6)",
+		"F": "főkönyvelő (3)",
+		"cardnumber": "16"
+	},
+	{
+		"A": "rím: főz",
+		"B": "erkölcsrendészet (3)",
+		"C": "stopperóra (4)",
+		"D": "halálbüntetés (6)",
+		"E": "bűncselekmény (3)",
+		"F": "emberölés (4)",
+		"cardnumber": "26"
+	},
+	{
+		"A": "postagalamb (3)",
+		"B": "hidegháború (4)",
+		"C": "majomszeretet (5)",
+		"D": "könnycsatorna (6)",
+		"E": "készpénzfizetés (3)",
+		"F": "hálapénz (5)",
+		"cardnumber": "36"
+	},
+	{
+		"A": "kerékabroncs (3)",
+		"B": "emelőkar (4)",
+		"C": "sebességváltó (4)",
+		"D": "szentkép (3)",
+		"E": "bőrkeménedés (6)",
+		"F": "rím: vad",
+		"cardnumber": "104"
+	},
+	{
+		"A": "koronagyarmat (5)",
+		"B": "rím: ország",
+		"C": "szerzetesrend (6)",
+		"D": "szószék (4)",
+		"E": "szakterület (3)",
+		"F": "utánfutó (4)",
+		"cardnumber": "46"
+	},
+	{
+		"A": "babkávé (4)",
+		"B": "villámtréfa (3)",
+		"C": "salakpálya (5)",
+		"D": "fürdőmedence (4)",
+		"E": "rím: király",
+		"F": "mellkas (6)",
+		"cardnumber": "17"
+	},
+	{
+		"A": "babaarc (6)",
+		"B": "vonalbérlet (3)",
+		"C": "kaptafa (4)",
+		"D": "lemezjátszó (3)",
+		"E": "irányítószám (3)",
+		"F": "rádióbemondó (5)",
+		"cardnumber": "62"
+	},
+	{
+		"A": "búzavirág (4)",
+		"B": "láncreakció (3)",
+		"C": "zászlólobogtatás (5)",
+		"D": "lánc: illetékbélyeg",
+		"E": "zászlóalj (6)",
+		"F": "fényképalbum (5)",
+		"cardnumber": "53"
+	},
+	{
+		"A": "kórusvezető (4)",
+		"B": "öndicséret (6)",
+		"C": "ablakredőny (3)",
+		"D": "festéktubus (4)",
+		"E": "színváltás (3)",
+		"F": "arcizom (5)",
+		"cardnumber": "51"
+	},
+	{
+		"A": "székláb (3)",
+		"B": "májfolt (4)",
+		"C": "ködszítálás (4)",
+		"D": "torzsszülött (6)",
+		"E": "lisztkukac (4)",
+		"F": "csalétek (5)",
+		"cardnumber": "85"
+	},
+	{
+		"A": "varázspálca (6)",
+		"B": "kortárs (3)",
+		"C": "uborkaorr (4)",
+		"D": "kirakatbábú (5)",
+		"E": "kapáslövés (3)",
+		"F": "szervátültetés (5)",
+		"cardnumber": "56"
+	},
+	{
+		"A": "háromkirályok (5)",
+		"B": "válsággóc (4)",
+		"C": "fülcimpa (5)",
+		"D": "szarvastehén (6)",
+		"E": "rím: veszély",
+		"F": "torokgyík (6)",
+		"cardnumber": "55"
+	},
+	{
+		"A": "virágnyelv (4)",
+		"B": "hóharmat (3)",
+		"C": "békepipa (5)",
+		"D": "síremlék (3)",
+		"E": "farkasétvágy (6)",
+		"F": "vaksötétség (6)",
+		"cardnumber": "106"
+	},
+	{
+		"A": "ádámkosztüm (4)",
+		"B": "visszajátszás (3)",
+		"C": "tojástartó (5)",
+		"D": "távcső (6)",
+		"E": "családtag (3)",
+		"F": "imakönyv (4)",
+		"cardnumber": "7"
+	},
+	{
+		"A": "vadászkalap (6)",
+		"B": "ellenszenv (3)",
+		"C": "szempont (5)",
+		"D": "kisvasút (4)",
+		"E": "jégeső (3)",
+		"F": "struccpolitika (5)",
+		"cardnumber": "19"
+	},
+	{
+		"A": "korpakenyér (5)",
+		"B": "cipőméret (3)",
+		"C": "törlőrongy (4)",
+		"D": "kapuív (6)",
+		"E": "telitalálat (3)",
+		"F": "féknyom (4)",
+		"cardnumber": "101"
+	},
+	{
+		"A": "mínuszjel (5)",
+		"B": "szerecsendió (3)",
+		"C": "futószőnyeg (3)",
+		"D": "lánc: májfolt",
+		"E": "bohémélet (6)",
+		"F": "áramütés (5)",
+		"cardnumber": "11"
+	},
+	{
+		"A": "pisztolygolyó (3)",
+		"B": "rendőrkutya (3)",
+		"C": "orrfintorgatás (6)",
+		"D": "látcső (4)",
+		"E": "nagyhét (4)",
+		"F": "szegycsont (5)",
+		"cardnumber": "10"
+	},
+	{
+		"A": "tyúkmell (6)",
+		"B": "gázleolvasó (3)",
+		"C": "rím: gond",
+		"D": "szarvasbogár (4)",
+		"E": "szabadságvesztés (3)",
+		"F": "dobostorta (5)",
+		"cardnumber": "9"
+	},
+	{
+		"A": "házastársak (5)",
+		"B": "vasérc (3)",
+		"C": "tévékészülék (3)",
+		"D": "futószalag (5)",
+		"E": "zergebak (4)",
+		"F": "fogszabályozás (6)",
+		"cardnumber": "22"
+	},
+	{
+		"A": "császármorzsa (5)",
+		"B": "korszellem (4)",
+		"C": "étvágy (5)",
+		"D": "lábjegyzet (3)",
+		"E": "ünnepnap (6)",
+		"F": "súgólyuk (4)",
+		"cardnumber": "32"
+	},
+	{
+		"A": "gyomornedv (5)",
+		"B": "popsztár (3)",
+		"C": "érverés (3)",
+		"D": "utazóbőrönd (5)",
+		"E": "zarándokút (6)",
+		"F": "pókerarc (4)",
+		"cardnumber": "42"
+	},
+	{
+		"A": "pénzérme (5)",
+		"B": "pénzforrás (3)",
+		"C": "érdekházasság (6)",
+		"D": "kardvirág (3)",
+		"E": "málnaszörp (4)",
+		"F": "harangtorony (4)",
+		"cardnumber": "52"
+	},
+	{
+		"A": "bútorasztalos (4)",
+		"B": "nyereségrészesedés (3)",
+		"C": "gyorsúszás (4)",
+		"D": "lánc: légtér",
+		"E": "operakalauz (6)",
+		"F": "világjáró (6)",
+		"cardnumber": "71"
+	},
+	{
+		"A": "boszorkányégetés (4)",
+		"B": "őzlábgomba (3)",
+		"C": "tornacipő (3)",
+		"D": "rövidhullám (5)",
+		"E": "tevehajcsár (6)",
+		"F": "nótafa (6)",
+		"cardnumber": "49"
+	},
+	{
+		"A": "hárfakíséret (5)",
+		"B": "becézőnév (6)",
+		"C": "kézmosó (3)",
+		"D": "csillagkép (4)",
+		"E": "vákumcsomagolás (3)",
+		"F": "függönykarika (3)",
+		"cardnumber": "39"
+	},
+	{
+		"A": "űrhajós (6)",
+		"B": "édességbolt (3)",
+		"C": "zsebkendő (4)",
+		"D": "fülbemászó (3)",
+		"E": "dióolaj (4)",
+		"F": "botbüntetés (5)",
+		"cardnumber": "29"
+	},
+	{
+		"A": "palackposta (6)",
+		"B": "pénzbüntetés (3)",
+		"C": "holtpont (4)",
+		"D": "határsorompó (5)",
+		"E": "hobbiszakács (3)",
+		"F": "boszorkányseprű (4)",
+		"cardnumber": "88"
+	},
+	{
+		"A": "hamupipőke (4)",
+		"B": "kötszer (3)",
+		"C": "akasztófa (5)",
+		"D": "videokamera (5)",
+		"E": "jövőkutatás (6)",
+		"F": "rögzítőkötés (4)",
+		"cardnumber": "12"
+	},
+	{
+		"A": "kirándulóbusz (4)",
+		"B": "puccskísérlet (3)",
+		"C": "kétségbeesés (5)",
+		"D": "középfül (6)",
+		"E": "mintadarab (3)",
+		"F": "jegyzetfüzet (5)",
+		"cardnumber": "3"
+	},
+	{
+		"A": "bársonyszék (4)",
+		"B": "nyugállomány (4)",
+		"C": "riasztópisztoly (5)",
+		"D": "úszóhártya (3)",
+		"E": "vigaszdíj (3)",
+		"F": "ütőkártya (6)",
+		"cardnumber": "81"
+	},
+	{
+		"A": "táncház (4)",
+		"B": "méretarány (3)",
+		"C": "földrengés (5)",
+		"D": "angyalhaj (4)",
+		"E": "vegyiművek (6)",
+		"F": "kebelbarát (5)",
+		"cardnumber": "86"
+	},
+	{
+		"A": "hektoliter (5)",
+		"B": "aszfaltbetyár (6)",
+		"C": "naptártömb (5)",
+		"D": "gyermekmegörző (4)",
+		"E": "lánc: fagomba",
+		"F": "füllhallgató (4)",
+		"cardnumber": "91"
+	},
+	{
+		"A": "akasztófahumor (5)",
+		"B": "tervgazdálkodás (3)",
+		"C": "rádióantenna (4)",
+		"D": "négyzetgyök (6)",
+		"E": "jókívánság (4)",
+		"F": "rajtaütés (5)",
+		"cardnumber": "59"
+	},
+	{
+		"A": "szénásszekér (4)",
+		"B": "rím: költség",
+		"C": "hűtőtáska (6)",
+		"D": "szállítólevél (5)",
+		"E": "edzőtábor (4)",
+		"F": "mellényzseb (4)",
+		"cardnumber": "89"
+	},
+	{
+		"A": "rím: álom",
+		"B": "dámajáték",
+		"C": "pehelypaplan (5)",
+		"D": "unokaöccs (6)",
+		"E": "kutatószenvedély (4)",
+		"F": "hálaima (4)",
+		"cardnumber": "109"
+	},
+	{
+		"A": "rendszámtábla (3)",
+		"B": "olajválság (6)",
+		"C": "kőszív (5)",
+		"D": "szamárbőgés (4)",
+		"E": "útvám (3)",
+		"F": "katonadal (4)",
+		"cardnumber": "57"
+	},
+	{
+		"A": "jégcsap (3)",
+		"B": "fajankó (3)",
+		"C": "atommag (5)",
+		"D": "kilométer (6)",
+		"E": "rím: hőség",
+		"F": "lámpabúra (6)",
+		"cardnumber": "98"
+	},
+	{
+		"A": "rabszolgamunka (5)",
+		"B": "forráspont (3)",
+		"C": "kifutólegény (5)",
+		"D": "levelibéka (4)",
+		"E": "késdobáló (6)",
+		"F": "egércsapda (6)",
+		"cardnumber": "102"
+	},
+	{
+		"A": "alkar (3)",
+		"B": "tudatalatti (3)",
+		"C": "aláírás (5)",
+		"D": "bakkecske (5)",
+		"E": "jelmondat (6)",
+		"F": "mosómedve (4)",
+		"cardnumber": "27"
+	},
+	{
+		"A": "fűszál (3)",
+		"B": "nagyvad (6)",
+		"C": "csíntevő (5)",
+		"D": "konyhanyelv (5)",
+		"E": "közellenség (3)",
+		"F": "lemezlovas (4)",
+		"cardnumber": "94"
+	},
+	{
+		"A": "egyensúly (5)",
+		"B": "díszkiadás (3)",
+		"C": "hidegvérűek (4)",
+		"D": "vadászkürt (3)",
+		"E": "ötletgazdagság (3)",
+		"F": "telivér (6)",
+		"cardnumber": "37"
+	},
+	{
+		"A": "jégkocka (3)",
+		"B": "jégkrém (6)",
+		"C": "jégkorszak (5)",
+		"D": "sószórás (3)",
+		"E": "lánc: tiszavirág",
+		"F": "légyfogó (4)",
+		"cardnumber": "47"
+	},
+	{
+		"A": "lánc: vitaest",
+		"B": "bazáráru (6)",
+		"C": "fűnyíró (4)",
+		"D": "mostohaapa (5)",
+		"E": "íráspróba (4)",
+		"F": "cipőnagyság (4)",
+		"cardnumber": "63"
+	},
+	{
+		"A": "szájhős (5)",
+		"B": "ízeltlábuak (4)",
+		"C": "nagyagy (3)",
+		"D": "nagylelkűség (5)",
+		"E": "főiskola (3)",
+		"F": "tücsökzene (6)",
+		"cardnumber": "48"
+	},
+	{
+		"A": "farkaskutya (5)",
+		"B": "próbaidő (4)",
+		"C": "hajócsavar (5)",
+		"D": "lánc: gránátalma",
+		"E": "huszárbajusz (6)",
+		"F": "térdcsizma (6)",
+		"cardnumber": "28"
+	},
+	{
+		"A": "baleset (4)",
+		"B": "szabálysértés (3)",
+		"C": "rendőr (3)",
+		"D": "lépcsőház (4)",
+		"E": "avatóünnepély (4)",
+		"F": "nudistastrand (6)",
+		"cardnumber": "38"
+	},
+	{
+		"A": "rongylabda (5)",
+		"B": "mérföldkő (4)",
+		"C": "oroszlánsörény (5)",
+		"D": "rockzene (3)",
+		"E": "lánc: hozományvadász",
+		"F": "neoncső (6)",
+		"cardnumber": "76"
+	},
+	{
+		"A": "túrógombóc (4)",
+		"B": "böjt (3)",
+		"C": "lesiklóverseny (6)",
+		"D": "orgonavirág (3)",
+		"E": "adatvédelem (4)",
+		"F": "hangyaboly (5)",
+		"cardnumber": "21"
+	},
+	{
+		"A": "házasságtörés (5)",
+		"B": "világfájdalom (6)",
+		"C": "érszűkület (5)",
+		"D": "elsősegély (4)",
+		"E": "lánc: újságpapír",
+		"F": "bányászlámpa (5)",
+		"cardnumber": "221"
+	},
+	{
+		"A": "hajkorona (3)",
+		"B": "tojásrántotta (4)",
+		"C": "uborkaszezon (6)",
+		"D": "vendéghaj (5)",
+		"E": "szószegés (4)",
+		"F": "tollaslabda (3)",
+		"cardnumber": "68"
+	},
+	{
+		"A": "katicabogár (3)",
+		"B": "lakbér (4)",
+		"C": "szőrmekucsma (6)",
+		"D": "visszavonulás (5)",
+		"E": "futólépés (3)",
+		"F": "visszaesés (5)",
+		"cardnumber": "25"
+	},
+	{
+		"A": "kalózhajó (6)",
+		"B": "luxuscikk (4)",
+		"C": "huzat (4)",
+		"D": "kínzószerszám (3)",
+		"E": "zónaidő (3)",
+		"F": "pásztortűz (5)",
+		"cardnumber": "5"
+	},
+	{
+		"A": "fekvőtámasz (5)",
+		"B": "lánc: ellenségkép",
+		"C": "kofaasszony (6)",
+		"D": "misebor (5)",
+		"E": "sorsjegy (3)",
+		"F": "konzervnyító (5)",
+		"cardnumber": "58"
+	},
+	{
+		"A": "kalásztenger (5)",
+		"B": "diapozitív (6)",
+		"C": "otthonülő (5)",
+		"D": "diakeret (4)",
+		"E": "órarend (3)",
+		"F": "szívószál (3)",
+		"cardnumber": "285"
+	},
+	{
+		"A": "erdőírtás (6)",
+		"B": "néphagyomány (5)",
+		"C": "turistatérkép (4)",
+		"D": "csillagszoró (4)",
+		"E": "tömörgumi (3)",
+		"F": "harisnyatartó (3)",
+		"cardnumber": "295"
+	},
+	{
+		"A": "császárkörte (6)",
+		"B": "erénycsősz (5)",
+		"C": "körfűrész (4)",
+		"D": "lámpabúra (4)",
+		"E": "hibapont (4)",
+		"F": "lánc: késhegy",
+		"cardnumber": "305"
+	},
+	{
+		"A": "vándordal (5)",
+		"B": "átlagérték (6)",
+		"C": "rádiótelefon (3)",
+		"D": "üvegvisszaváltó (4)",
+		"E": "verejtékmirigy (4)",
+		"F": "súlyerő (5)",
+		"cardnumber": "315"
+	},
+	{
+		"A": "lánc: koncertterem",
+		"B": "állcsont (6)",
+		"C": "macskaköröm (3)",
+		"D": "macskazene (4)",
+		"E": "területfejlesztés (5)",
+		"F": "orrhegy (4)",
+		"cardnumber": "325"
+	},
+	{
+		"A": "zsebmetsző (6)",
+		"B": "tömegsport (3)",
+		"C": "űrhajó (5)",
+		"D": "légikisasszony (5)",
+		"E": "pánikhangulat (4)",
+		"F": "sípcsont (3)",
+		"cardnumber": "235"
+	},
+	{
+		"A": "zuhanyfürdő (4)",
+		"B": "orrcsont (3)",
+		"C": "szempár (4)",
+		"D": "zuhanyzófülke (3)",
+		"E": "vörösbegy (6)",
+		"F": "virágkötő (5)",
+		"cardnumber": "245"
+	},
+	{
+		"A": "szemmérték (6)",
+		"B": "egyházpolitika (4)",
+		"C": "férfibicikli (5)",
+		"D": "gyermekkönyv (4)",
+		"E": "felelősségbiztosítás (5)",
+		"F": "újraélesztés (4)",
+		"cardnumber": "255"
+	},
+	{
+		"A": "lókötő (3)",
+		"B": "tömegcikk (4)",
+		"C": "cselfogás (4)",
+		"D": "hosszúnadrág (3)",
+		"E": "ámokfutó (6)",
+		"F": "édesvíz (6)",
+		"cardnumber": "265"
+	},
+	{
+		"A": "egyházmegye (5)",
+		"B": "névrokon (4)",
+		"C": "tömjénfüst (4)",
+		"D": "egyházművészet (6)",
+		"E": "árupróba (3)",
+		"F": "desszertkanál (5)",
+		"cardnumber": "275"
+	},
+	{
+		"A": "függőhíd (3)",
+		"B": "gyógytorna (4)",
+		"C": "sebkenőcs (5)",
+		"D": "túramotoros (5)",
+		"E": "lánc: levegőhiány",
+		"F": "ágymelegítő (6)",
+		"cardnumber": "294"
+	},
+	{
+		"A": "összkerékmeghajtás (4)",
+		"B": "árleszállítás (4)",
+		"C": "némafilm (4)",
+		"D": "virágcserép (3)",
+		"E": "gyűjtőtábor (6)",
+		"F": "bordásfal (4)",
+		"cardnumber": "304"
+	},
+	{
+		"A": "rajztömb (6)",
+		"B": "hadművelet (4)",
+		"C": "rím: sántít",
+		"D": "duzzasztógát (5)",
+		"E": "költségmegtérítés (4)",
+		"F": "könyöradomány (5)",
+		"cardnumber": "314"
+	},
+	{
+		"A": "sakktábla (6)",
+		"B": "sajtóügynökség (4)",
+		"C": "dicsfény (4)",
+		"D": "tekepálya (3)",
+		"E": "szezonmunka (3)",
+		"F": "krumplileves (5)",
+		"cardnumber": "324"
+	},
+	{
+		"A": "építésvezető (5)",
+		"B": "könnyűzene (4)",
+		"C": "tollseprű (6)",
+		"D": "kamatláb (3)",
+		"E": "félár (4)",
+		"F": "húslégy (5)",
+		"cardnumber": "225"
+	},
+	{
+		"A": "rím: veszély",
+		"B": "páraleszívó (4)",
+		"C": "öngól (4)",
+		"D": "sóbálvány (6)",
+		"E": "tökfilkó (3)",
+		"F": "keskenyfilm (5)",
+		"cardnumber": "244"
+	},
+	{
+		"A": "kalaptű (4)",
+		"B": "riasztólövés (3)",
+		"C": "kártyavár (5)",
+		"D": "vaddisznó (4)",
+		"E": "paradicsomsaláta (3)",
+		"F": "bukórepülés (6)",
+		"cardnumber": "254"
+	},
+	{
+		"A": "játszótér (4)",
+		"B": "hadkötelezettség (3)",
+		"C": "gyalupad (5)",
+		"D": "játéktábla (4)",
+		"E": "napszám (4)",
+		"F": "nagybögő (6)",
+		"cardnumber": "264"
+	},
+	{
+		"A": "testvérpár (5)",
+		"B": "lánc: nagypiac",
+		"C": "gyermekrádió (6)",
+		"D": "hamispénz (5)",
+		"E": "hasábfa (4)",
+		"F": "gyermekmunka (5)",
+		"cardnumber": "274"
+	},
+	{
+		"A": "sárkányrepülő (6)",
+		"B": "lánc: jelige",
+		"C": "diavetítő (3)",
+		"D": "sóstó (4)",
+		"E": "bolygópálya (4)",
+		"F": "madártej (5)",
+		"cardnumber": "284"
+	},
+	{
+		"A": "állógallér (3)",
+		"B": "hadseregparancsnokság (3)",
+		"C": "vesszőparipa (4)",
+		"D": "strandpapucs (6)",
+		"E": "lábfék (3)",
+		"F": "ébresztőóra (4)",
+		"cardnumber": "303"
+	},
+	{
+		"A": "vízér (4)",
+		"B": "vadászterület (3)",
+		"C": "poéngyilkos (5)",
+		"D": "szobanövény (4)",
+		"E": "édesgyökér (6)",
+		"F": "stoptábla (6)",
+		"cardnumber": "313"
+	},
+	{
+		"A": "sáskajárás (5)",
+		"B": "taracklövés (4)",
+		"C": "nagydob (3)",
+		"D": "telefonbeszélgetés (4)",
+		"E": "villámkérdés (6)",
+		"F": "oxigénmaszk (6)",
+		"cardnumber": "323"
+	},
+	{
+		"A": "basszuskulcs (4)",
+		"B": "ösztöndíj (6)",
+		"C": "csúcsforgalom (4)",
+		"D": "izzadságfolt (3)",
+		"E": "tanyatelepülés (3)",
+		"F": "mellékbejárat (5)",
+		"cardnumber": "224"
+	},
+	{
+		"A": "tojásfestés (3)",
+		"B": "körömolló (3)",
+		"C": "felsőház (5)",
+		"D": "ebédjegy (4)",
+		"E": "létfenntartás (6)",
+		"F": "farkasvakság (6)",
+		"cardnumber": "234"
+	},
+	{
+		"A": "papagájtoll (4)",
+		"B": "teremtéstörténet (3)",
+		"C": "lánc: államférfi",
+		"D": "manzárdlakás (5)",
+		"E": "luxusszálló (6)",
+		"F": "holdfény (4)",
+		"cardnumber": "253"
+	},
+	{
+		"A": "tükörkép (4)",
+		"B": "diadalmámor (6)",
+		"C": "kockajáték (5)",
+		"D": "sonkaujj (4)",
+		"E": "lánc: emlékünnep",
+		"F": "kockacukor (4)",
+		"cardnumber": "263"
+	},
+	{
+		"A": "vadászrepülőgép (4)",
+		"B": "biomassza (6)",
+		"C": "nyaktiló (5)",
+		"D": "telihold (3)",
+		"E": "lágyéksérv (4)",
+		"F": "ejtőernyő (4)",
+		"cardnumber": "273"
+	},
+	{
+		"A": "szamárkenyér (5)",
+		"B": "egyeduralkodó (3)",
+		"C": "ollóköszörűs (4)",
+		"D": "melltartó (3)",
+		"E": "sakkhúzás (6)",
+		"F": "vakbél (6)",
+		"cardnumber": "283"
+	},
+	{
+		"A": "metszőolló (3)",
+		"B": "kőhalom (4)",
+		"C": "orgonasíp (4)",
+		"D": "tűzhely (3)",
+		"E": "kávézacc (6)",
+		"F": "tornagyakorlat (5)",
+		"cardnumber": "293"
+	},
+	{
+		"A": "pecsétgyűrű (3)",
+		"B": "álomfejtés (4)",
+		"C": "erdőpusztulás (4)",
+		"D": "hátsótengely (3)",
+		"E": "alkoholmérgezés (4)",
+		"F": "fénycső (6)",
+		"cardnumber": "312"
+	},
+	{
+		"A": "háromszögvonalzó (4)",
+		"B": "szafaripark (3)",
+		"C": "angolkeringő (4)",
+		"D": "zsákutca (3)",
+		"E": "mellékkereset (6)",
+		"F": "kétszínűség (5)",
+		"cardnumber": "322"
+	},
+	{
+		"A": "kétéltűek (6)",
+		"B": "tájszólás (3)",
+		"C": "rím: mutat",
+		"D": "gyújtózsinór (5)",
+		"E": "sportközvetítés (4)",
+		"F": "szemszög (5)",
+		"cardnumber": "223"
+	},
+	{
+		"A": "péksütemény (4)",
+		"B": "szülőföld (3)",
+		"C": "kézbilincs (3)",
+		"D": "egytálétel (5)",
+		"E": "tévhit (6)",
+		"F": "ajakír (3)",
+		"cardnumber": "233"
+	},
+	{
+		"A": "csúcstalálkozó (5)",
+		"B": "aranygaluska (3)",
+		"C": "fagypont (6)",
+		"D": "borpárlat (5)",
+		"E": "hibaforrás (4)",
+		"F": "óraszám (4)",
+		"cardnumber": "243"
+	},
+	{
+		"A": "síkesztyű (3)",
+		"B": "holdfázis (4)",
+		"C": "sajtkrém (5)",
+		"D": "forgószél (6)",
+		"E": "ülőalkalmatosság (3)",
+		"F": "farkasszem (5)",
+		"cardnumber": "262"
+	},
+	{
+		"A": "pulikutya (6)",
+		"B": "féklámpa (3)",
+		"C": "aktatáska (5)",
+		"D": "hegylánc (3)",
+		"E": "siratóének (4)",
+		"F": "házinyúl (4)",
+		"cardnumber": "272"
+	},
+	{
+		"A": "gúnymosoly (5)",
+		"B": "siratóasszony (4)",
+		"C": "dohányfüst (4)",
+		"D": "máglyarakás (6)",
+		"E": "zongorakíséret (3)",
+		"F": "gumicsónak (5)",
+		"cardnumber": "282"
+	},
+	{
+		"A": "övtáska (3)",
+		"B": "mintapélda (5)",
+		"C": "szerencsepénz (4)",
+		"D": "pávaszem (6)",
+		"E": "kirakodóvásár (3)",
+		"F": "izomerő (3)",
+		"cardnumber": "292"
+	},
+	{
+		"A": "rím: sarok",
+		"B": "varázsige (3)",
+		"C": "hanglétra (6)",
+		"D": "szavazólap (5)",
+		"E": "tavirózsa (4)",
+		"F": "terpeszállás (4)",
+		"cardnumber": "302"
+	},
+	{
+		"A": "kúpkerék (4)",
+		"B": "forgáspont (5)",
+		"C": "evezőlapát (4)",
+		"D": "vetőmag (6)",
+		"E": "intézkedéscsomag (4)",
+		"F": "fejkendő (5)",
+		"cardnumber": "321"
+	},
+	{
+		"A": "útpadka (3)",
+		"B": "érintésvédelem (4)",
+		"C": "idegenforgalom (5)",
+		"D": "gombostű (3)",
+		"E": "üdvözlőbeszéd (6)",
+		"F": "búcsúcsók (6)",
+		"cardnumber": "222"
+	},
+	{
+		"A": "körömlakk (3)",
+		"B": "vetélytárs (4)",
+		"C": "üvegtest (5)",
+		"D": "férfifodrász (6)",
+		"E": "kórkép (4)",
+		"F": "házasságszédelgő (5)",
+		"cardnumber": "232"
+	},
+	{
+		"A": "méhkas (3)",
+		"B": "dugattyúhenger (6)",
+		"C": "zázslórúd (5)",
+		"D": "szájkosár (3)",
+		"E": "előreléptetés (4)",
+		"F": "fodrászbúra (3)",
+		"cardnumber": "242"
+	},
+	{
+		"A": "taxiállomás (5)",
+		"B": "peremvidék (4)",
+		"C": "szempillafesték (4)",
+		"D": "felhőátvonulás (6)",
+		"E": "kutyahűség (3)",
+		"F": "koktélparti (5)",
+		"cardnumber": "252"
+	},
+	{
+		"A": "bokszbajnokság (5)",
+		"B": "íjhúr (3)",
+		"C": "diszkoszvetés (3)",
+		"D": "zsinórlabda (6)",
+		"E": "rím: sült",
+		"F": "virágcsokor (6)",
+		"cardnumber": "271"
+	},
+	{
+		"A": "levéltetű (4)",
+		"B": "szemüreg (3)",
+		"C": "hintaló (6)",
+		"D": "hurkapálca (3)",
+		"E": "pénzzavar (4)",
+		"F": "hajóhinta (5)",
+		"cardnumber": "281"
+	},
+	{
+		"A": "tölténytáska (5)",
+		"B": "kenderkötél (4)",
+		"C": "rím: sör",
+		"D": "kecskeszakáll (3)",
+		"E": "kézfelület (4)",
+		"F": "vonósnégyes (6)",
+		"cardnumber": "291"
+	},
+	{
+		"A": "díjlovaglás (5)",
+		"B": "dicshimnusz (6)",
+		"C": "gyorskorcsolyázó (4)",
+		"D": "homloknézet (5)",
+		"E": "ceremóniamester (3)",
+		"F": "fürdőkád (3)",
+		"cardnumber": "301"
+	},
+	{
+		"A": "kiflikanyar (4)",
+		"B": "nyombiztosítás (6)",
+		"C": "hajtóvadászat (5)",
+		"D": "rúdugrás (3)",
+		"E": "lánc: arcjáték",
+		"F": "gerelyhajítás (3)",
+		"cardnumber": "311"
+	},
+	{
+		"A": "szamárpad (4)",
+		"B": "korallzátony (3)",
+		"C": "lánc: babérlevél",
+		"D": "pótkerék (4)",
+		"E": "lépéskényszer (6)",
+		"F": "gyűrűváltás (3)",
+		"cardnumber": "395"
+	},
+	{
+		"A": "távolugrás (4)",
+		"B": "rím: agy",
+		"C": "testalkat (6)",
+		"D": "kőfejtő (5)",
+		"E": "jelige (3)",
+		"F": "tejivó (5)",
+		"cardnumber": "405"
+	},
+	{
+		"A": "hintaszék (6)",
+		"B": "körbástya (3)",
+		"C": "felhőkarcoló (3)",
+		"D": "szövőlepke (5)",
+		"E": "üzemszünet (4)",
+		"F": "mesterlövész (5)",
+		"cardnumber": "415"
+	},
+	{
+		"A": "hattyúdal (6)",
+		"B": "lánc: kisdiák",
+		"C": "dühroham (5)",
+		"D": "hattyúnyak (3)",
+		"E": "háztűznéző (4)",
+		"F": "királynő (3)",
+		"cardnumber": "425"
+	},
+	{
+		"A": "elefántagyar (3)",
+		"B": "élménybeszámoló (6)",
+		"C": "hótakaró (4)",
+		"D": "vészmadár (5)",
+		"E": "ősbemutató (4)",
+		"F": "rím: rejtély",
+		"cardnumber": "435"
+	},
+	{
+		"A": "légikikötő (3)",
+		"B": "lánc: szobabútor",
+		"C": "bohócsapka (6)",
+		"D": "molyirtó (5)",
+		"E": "folyószabályozás (3)",
+		"F": "ablakrács (4)",
+		"cardnumber": "231"
+	},
+	{
+		"A": "füstkarika (6)",
+		"B": "lánc: operaénekes",
+		"C": "kábítószerkereskedelem (5)",
+		"D": "ágytakaró (3)",
+		"E": "vámvizsgálat (3)",
+		"F": "kulcslyuk (4)",
+		"cardnumber": "241"
+	},
+	{
+		"A": "keresztespók (3)",
+		"B": "környezetvédelem (4)",
+		"C": "távbeszélő (6)",
+		"D": "szemetesvödör (4)",
+		"E": "munkaerőpiac (4)",
+		"F": "színházjegy (5)",
+		"cardnumber": "251"
+	},
+	{
+		"A": "nyuszifül (4)",
+		"B": "tápérték (4)",
+		"C": "állatkínzás (6)",
+		"D": "őserdő (5)",
+		"E": "összefüggés (4)",
+		"F": "tehénbőgés (3)",
+		"cardnumber": "261"
+	},
+	{
+		"A": "birkapásztor (4)",
+		"B": "állatvásár (3)",
+		"C": "lakkcipő (3)",
+		"D": "birsalma (5)",
+		"E": "újbor (4)",
+		"F": "segélytelefon (6)",
+		"cardnumber": "385"
+	},
+	{
+		"A": "fokhagymakoszorú (4)",
+		"B": "válóper (4)",
+		"C": "békaügetés (3)",
+		"D": "szarvasgomba (5)",
+		"E": "házasságközvetítés (6)",
+		"F": "mágneslemez (5)",
+		"cardnumber": "335"
+	},
+	{
+		"A": "fogaskerék (3)",
+		"B": "beszédtárgy (6)",
+		"C": "parfümszóró (4)",
+		"D": "biciklilámpa (4)",
+		"E": "hulladékhasznosítás (5)",
+		"F": "rím: hát",
+		"cardnumber": "345"
+	},
+	{
+		"A": "esőcsatorna (4)",
+		"B": "zálogcédula (3)",
+		"C": "dunsztkötés (4)",
+		"D": "bábjáték (5)",
+		"E": "sárgaláz (6)",
+		"F": "sárcipő (4)",
+		"cardnumber": "355"
+	},
+	{
+		"A": "kártyalap (4)",
+		"B": "jóvátétel (6)",
+		"C": "fésűsgyapjú (5)",
+		"D": "kötélhágcsó (3)",
+		"E": "pincelakás (3)",
+		"F": "áramütés (4)",
+		"cardnumber": "365"
+	},
+	{
+		"A": "sárhányó (3)",
+		"B": "répaszelet (4)",
+		"C": "itatóspapír (5)",
+		"D": "ködkürt (3)",
+		"E": "turulmadár (6)",
+		"F": "körforgás (6)",
+		"cardnumber": "375"
+	},
+	{
+		"A": "marhahús (4)",
+		"B": "közhely (4)",
+		"C": "imazsámoly (5)",
+		"D": "ördögfióka (6)",
+		"E": "túlszámlázás (4)",
+		"F": "pillangóúszás (5)",
+		"cardnumber": "394"
+	},
+	{
+		"A": "ütőhangszer (6)",
+		"B": "uzsorakamat (4)",
+		"C": "bőrnadrág (5)",
+		"D": "zápfog (3)",
+		"E": "mestergerenda (4)",
+		"F": "fojtógáz (5)",
+		"cardnumber": "404"
+	},
+	{
+		"A": "gyapjúfonal (4)",
+		"B": "visszaélés (5)",
+		"C": "borfajta (3)",
+		"D": "villanyrendőr (6)",
+		"E": "rím: csont",
+		"F": "borkostoló (6)",
+		"cardnumber": "414"
+	},
+	{
+		"A": "csillagtúra (5)",
+		"B": "hajófedélzet (4)",
+		"C": "szárkapocs (5)",
+		"D": "asztalfiók (3)",
+		"E": "tűzfészek (6)",
+		"F": "büvésztrükk (6)",
+		"cardnumber": "424"
+	},
+	{
+		"A": "utcabál (6)",
+		"B": "forgalomszámlálás (4)",
+		"C": "sportorvos (5)",
+		"D": "villamosbérlet (3)",
+		"E": "osztálybizalmi (4)",
+		"F": "macskakő (4)",
+		"cardnumber": "434"
+	},
+	{
+		"A": "túrabakancs (6)",
+		"B": "társasutazás (4)",
+		"C": "biliárdgolyó (3)",
+		"D": "gombamérgezés (4)",
+		"E": "állásfoglalás (4)",
+		"F": "könyökcső (5)",
+		"cardnumber": "344"
+	},
+	{
+		"A": "agárkutya (3)",
+		"B": "szünidő (4)",
+		"C": "vakablak (4)",
+		"D": "szívátültetés (6)",
+		"E": "faliszőnyeg (3)",
+		"F": "fejtörés (5)",
+		"cardnumber": "354"
+	},
+	{
+		"A": "látókör (6)",
+		"B": "szókincs (3)",
+		"C": "rím: mondat",
+		"D": "arctej (4)",
+		"E": "hóhérmunka (4)",
+		"F": "nagyágyú (5)",
+		"cardnumber": "364"
+	},
+	{
+		"A": "fénysugár (3)",
+		"B": "forródrót (4)",
+		"C": "csirkefogó (5)",
+		"D": "gabonaföld (6)",
+		"E": "névjegykártya (3)",
+		"F": "szépfiú (4)",
+		"cardnumber": "374"
+	},
+	{
+		"A": "rím: vendég",
+		"B": "fantomkép (3)",
+		"C": "állkapocs (5)",
+		"D": "takarítónő (6)",
+		"E": "fakanál (3)",
+		"F": "térdzokni (4)",
+		"cardnumber": "384"
+	},
+	{
+		"A": "vajaskifli (4)",
+		"B": "híradó (4)",
+		"C": "fűtőtest (3)",
+		"D": "férfiember (5)",
+		"E": "csapatverseny (6)",
+		"F": "szájszag (6)",
+		"cardnumber": "403"
+	},
+	{
+		"A": "szájüreg (4)",
+		"B": "csendháborítás (3)",
+		"C": "önarckép (5)",
+		"D": "habossütemény (3)",
+		"E": "visszaszámlálás (4)",
+		"F": "holdkóros (6)",
+		"cardnumber": "413"
+	},
+	{
+		"A": "gépfegyver (4)",
+		"B": "rezesbanda (4)",
+		"C": "hidegrázás (3)",
+		"D": "könyvespolc (3)",
+		"E": "ólomkristály (3)",
+		"F": "vadnyugat (6)",
+		"cardnumber": "423"
+	},
+	{
+		"A": "szökőkút (3)",
+		"B": "kiskereskedelem (4)",
+		"C": "bordélyház (5)",
+		"D": "mosdószivacs (4)",
+		"E": "lánc: mozgólépcső",
+		"F": "kanásztánc (6)",
+		"cardnumber": "433"
+	},
+	{
+		"A": "rím: testvér",
+		"B": "sikerélmény (4)",
+		"C": "fűrészpor (5)",
+		"D": "sarokablak (6)",
+		"E": "szarvashiba (5)",
+		"F": "szögletrúgás (5)",
+		"cardnumber": "334"
+	},
+	{
+		"A": "rím: vita",
+		"B": "jelmezbál (4)",
+		"C": "bőrpír (6)",
+		"D": "dugóhuzó (3)",
+		"E": "energiaválság (5)",
+		"F": "látóhatár (5)",
+		"cardnumber": "353"
+	},
+	{
+		"A": "hústorony (5)",
+		"B": "anyagcsere (4)",
+		"C": "fegyház (5)",
+		"D": "hóakadály (5)",
+		"E": "kérdőjel (6)",
+		"F": "szellemjárás (6)",
+		"cardnumber": "363"
+	},
+	{
+		"A": "világűr (3)",
+		"B": "lánc: bioritmus",
+		"C": "szakítószilárdság (6)",
+		"D": "félvér (5)",
+		"E": "életöröm (3)",
+		"F": "lombfűrész (4)",
+		"cardnumber": "373"
+	},
+	{
+		"A": "kottatartó (4)",
+		"B": "kultúrnövény (3)",
+		"C": "görkorcsolya (6)",
+		"D": "párnatánc (5)",
+		"E": "szabásrajz (4)",
+		"F": "keresztcsont (4)",
+		"cardnumber": "383"
+	},
+	{
+		"A": "lámpaernyő (3)",
+		"B": "virágméz (4)",
+		"C": "kakasülő (6)",
+		"D": "zsemlegombóc (5)",
+		"E": "licencdíj (4)",
+		"F": "ballépés (5)",
+		"cardnumber": "393"
+	},
+	{
+		"A": "rendőrautó (3)",
+		"B": "lángész (4)",
+		"C": "darázsfészek (5)",
+		"D": "lánc: sportkocsi",
+		"E": "békacomb (6)",
+		"F": "vándormadár (4)",
+		"cardnumber": "412"
+	},
+	{
+		"A": "porfelhő (4)",
+		"B": "mérlegbeszámoló (5)",
+		"C": "nőalak (5)",
+		"D": "csúszásveszély (5)",
+		"E": "csekkűrlap (6)",
+		"F": "rím: harmat",
+		"cardnumber": "422"
+	},
+	{
+		"A": "cipőfüző (4)",
+		"B": "időmilliomos (4)",
+		"C": "ablaktörlő (3)",
+		"D": "csavaranya (6)",
+		"E": "célfotó (3)",
+		"F": "rejtekhely (5)",
+		"cardnumber": "432"
+	},
+	{
+		"A": "láncöltés (3)",
+		"B": "ráadás (4)",
+		"C": "hidegindítás (6)",
+		"D": "gumidefekt (5)",
+		"E": "földkerekség (3)",
+		"F": "kabátbélés (5)",
+		"cardnumber": "333"
+	},
+	{
+		"A": "műszív (5)",
+		"B": "csomagolópapír (4)",
+		"C": "ballonkabát (3)",
+		"D": "szerszámtáska (4)",
+		"E": "lánc: csavarmenet",
+		"F": "visszatekintés (6)",
+		"cardnumber": "343"
+	},
+	{
+		"A": "véndiák (5)",
+		"B": "falugyűlés (3)",
+		"C": "vállkendő (4)",
+		"D": "toalettasztal (4)",
+		"E": "közmondás (3)",
+		"F": "sportbaleset (6)",
+		"cardnumber": "362"
+	},
+	{
+		"A": "farkasfog (3)",
+		"B": "koronatanú (6)",
+		"C": "rajtvonal (5)",
+		"D": "katonakönyv (4)",
+		"E": "sorstárs (3)",
+		"F": "tolóablak (4)",
+		"cardnumber": "372"
+	},
+	{
+		"A": "halpikkely (3)",
+		"B": "hordószónok (6)",
+		"C": "gondolatjel (3)",
+		"D": "kristálycsillár (5)",
+		"E": "futamidő (5)",
+		"F": "golyózápor (4)",
+		"cardnumber": "382"
+	},
+	{
+		"A": "májusfa (4)",
+		"B": "szolgalélek (6)",
+		"C": "lábmunka (5)",
+		"D": "gördeszka (3)",
+		"E": "világegyetem (3)",
+		"F": "rím: zsákmány",
+		"cardnumber": "392"
+	},
+	{
+		"A": "tüskésdisznó (6)",
+		"B": "művészlélek (4)",
+		"C": "parkolóóra (5)",
+		"D": "tehéntúró (3)",
+		"E": "népdal (3)",
+		"F": "lánc: juhsajt",
+		"cardnumber": "402"
+	},
+	{
+		"A": "tearózsa (6)",
+		"B": "munkásmozgalom (4)",
+		"C": "aprópénz (5)",
+		"D": "korhelyleves (5)",
+		"E": "sövénykerítés (4)",
+		"F": "babakocsi (3)",
+		"cardnumber": "421"
+	},
+	{
+		"A": "lökhárító (3)",
+		"B": "testvérharc (6)",
+		"C": "bosszúvágy (5)",
+		"D": "színpadkép (4)",
+		"E": "babakelengye (3)",
+		"F": "szabókréta (4)",
+		"cardnumber": "431"
+	},
+	{
+		"A": "maghasadás (4)",
+		"B": "nemesacél (6)",
+		"C": "tőrdöfés (5)",
+		"D": "félpálya (4)",
+		"E": "futómacska (5)",
+		"F": "ingujj (3)",
+		"cardnumber": "332"
+	},
+	{
+		"A": "kötőjel (4)",
+		"B": "főfelügyelő (4)",
+		"C": "agykéreg (5)",
+		"D": "fegyör (5)",
+		"E": "haszonbérlet (6)",
+		"F": "hegedűtok (3)",
+		"cardnumber": "342"
+	},
+	{
+		"A": "szabadstrand (5)",
+		"B": "világcsúfja (6)",
+		"C": "fényképezőgép (3)",
+		"D": "párttag (5)",
+		"E": "vörösvérsejt (3)",
+		"F": "gyöngysor (5)",
+		"cardnumber": "352"
+	},
+	{
+		"A": "pálmaház (6)",
+		"B": "jövőkép (4)",
+		"C": "hajlakk (5)",
+		"D": "zongoraeste (5)",
+		"E": "tisztiorvos (3)",
+		"F": "zsírszag (5)",
+		"cardnumber": "371"
+	},
+	{
+		"A": "szünnap (6)",
+		"B": "lánc: kengyelfutó",
+		"C": "kalapácsvetés (5)",
+		"D": "fogathajtás (5)",
+		"E": "tényállás (4)",
+		"F": "kéztörlő (3)",
+		"cardnumber": "381"
+	},
+	{
+		"A": "árvalányhaj (6)",
+		"B": "kutyaszorító (5)",
+		"C": "szívdobogás (3)",
+		"D": "tejút (3)",
+		"E": "páncélszekrény (4)",
+		"F": "főszerep (5)",
+		"cardnumber": "391"
+	},
+	{
+		"A": "vasalódeszka (4)",
+		"B": "szerződésszegés (4)",
+		"C": "váltóáram (5)",
+		"D": "szőlőhegy (3)",
+		"E": "vendégmarasztaló (6)",
+		"F": "gördeszka (3)",
+		"cardnumber": "401"
+	},
+	{
+		"A": "koalamackó (4)",
+		"B": "röntgensugarak (3)",
+		"C": "üveggyöngy (6)",
+		"D": "árvíz (5)",
+		"E": "szereposztás (4)",
+		"F": "verejtékcsepp (4)",
+		"cardnumber": "411"
+	},
+	{
+		"A": "blokkolóóra (4)",
+		"B": "fedőnév (3)",
+		"C": "tantestület (5)",
+		"D": "lánc: vevőszolgálat",
+		"E": "hangyászsün (6)",
+		"F": "sírógörcs (5)",
+		"cardnumber": "226"
+	},
+	{
+		"A": "borotvakés (6)",
+		"B": "lánc: versenypálya",
+		"C": "lófarok (5)",
+		"D": "kézcsók (4)",
+		"E": "főkolompos (3)",
+		"F": "gyertyatartó (4)",
+		"cardnumber": "331"
+	},
+	{
+		"A": "napraforgó (3)",
+		"B": "épületkár (4)",
+		"C": "tetőablak (5)",
+		"D": "felvonóhíd (6)",
+		"E": "ököruszály (3)",
+		"F": "nagyböjt (5)",
+		"cardnumber": "341"
+	},
+	{
+		"A": "pulóver (6)",
+		"B": "életmód (4)",
+		"C": "versenybíró (5)",
+		"D": "világítótorony (4)",
+		"E": "továbbképzés (3)",
+		"F": "papírkosár (4)",
+		"cardnumber": "351"
+	},
+	{
+		"A": "patkószeg (4)",
+		"B": "magasles (6)",
+		"C": "rágóizom (3)",
+		"D": "hálószoba (4)",
+		"E": "lánc: orgonavirág",
+		"F": "vészharang (5)",
+		"cardnumber": "361"
+	},
+	{
+		"A": "spirálrugó (6)",
+		"B": "hazárdjáték (4)",
+		"C": "pókhas (3)",
+		"D": "törzsasztal (4)",
+		"E": "válaszfal (3)",
+		"F": "függőágy (5)",
+		"cardnumber": "290"
+	},
+	{
+		"A": "óvónő (4)",
+		"B": "halláskárosodás (3)",
+		"C": "szakítópróba (5)",
+		"D": "lombkorona (3)",
+		"E": "egységcsomag (4)",
+		"F": "futóhomok (6)",
+		"cardnumber": "300"
+	},
+	{
+		"A": "forgatókönyv (5)",
+		"B": "példabeszéd (4)",
+		"C": "záróra (5)",
+		"D": "százlábú (6)",
+		"E": "kormánypárt (4)",
+		"F": "gépírás (5)",
+		"cardnumber": "310"
+	},
+	{
+		"A": "spanyolviasz (6)",
+		"B": "télikert (3)",
+		"C": "vívómaszk (4)",
+		"D": "télikabát (3)",
+		"E": "világcsoda (5)",
+		"F": "hátúszás (3)",
+		"cardnumber": "320"
+	},
+	{
+		"A": "stoppolófa (5)",
+		"B": "bosszúállás (4)",
+		"C": "bőrkiütés (5)",
+		"D": "nadrágcipzár (3)",
+		"E": "keresztrím (6)",
+		"F": "ujjpercek (6)",
+		"cardnumber": "330"
+	},
+	{
+		"A": "öregfiú (5)",
+		"B": "adócsalás (4)",
+		"C": "szőnyegporoló (3)",
+		"D": "körgyűrű (4)",
+		"E": "gonosztevő (3)",
+		"F": "zűrzavar (6)",
+		"cardnumber": "240"
+	},
+	{
+		"A": "gémkapocs (4)",
+		"B": "kirándulóhely (6)",
+		"C": "varázsital (5)",
+		"D": "nadrágszoknya (3)",
+		"E": "sárdobálás (3)",
+		"F": "rím: kúra",
+		"cardnumber": "250"
+	},
+	{
+		"A": "darázscsípés (6)",
+		"B": "mostohafivér (3)",
+		"C": "díjnyertes (5)",
+		"D": "völgykatlan (4)",
+		"E": "tisztségviselő (4)",
+		"F": "hűségeskü (5)",
+		"cardnumber": "260"
+	},
+	{
+		"A": "ugrótorony (4)",
+		"B": "energiaveszteség (3)",
+		"C": "bakugrás (3)",
+		"D": "paplak (5)",
+		"E": "doppingvizsgálat (3)",
+		"F": "hőléggömb (6)",
+		"cardnumber": "270"
+	},
+	{
+		"A": "lánc: alapelv",
+		"B": "fűzfavessző (6)",
+		"C": "bűvészpálca (3)",
+		"D": "búvárszemüveg (3)",
+		"E": "kertművelés (5)",
+		"F": "ikerablak (4)",
+		"cardnumber": "280"
+	},
+	{
+		"A": "kőhajító (3)",
+		"B": "szervezőkészség (4)",
+		"C": "békaperspektíva (5)",
+		"D": "személyvonat (4)",
+		"E": "zajszint (3)",
+		"F": "versfaragó (6)",
+		"cardnumber": "299"
+	},
+	{
+		"A": "hashártya (4)",
+		"B": "bárányhimlő (4)",
+		"C": "napszúrás (6)",
+		"D": "pásztorbot (3)",
+		"E": "megbízólevél (5)",
+		"F": "napimádó (3)",
+		"cardnumber": "309"
+	},
+	{
+		"A": "sportkocsi (4)",
+		"B": "szükségmegoldás (5)",
+		"C": "szertorna (4)",
+		"D": "tüdőlebeny (3)",
+		"E": "minisztertanács (3)",
+		"F": "vadászkutya (6)",
+		"cardnumber": "319"
+	},
+	{
+		"A": "üstdob (4)",
+		"B": "szőlőcukor (3)",
+		"C": "ugróegér (5)",
+		"D": "seprűnyél (3)",
+		"E": "vízisí (3)",
+		"F": "étlap (6)",
+		"cardnumber": "329"
+	},
+	{
+		"A": "felsőrész (4)",
+		"B": "ivócimbora (6)",
+		"C": "porszívó (5)",
+		"D": "mozgólépcső (4)",
+		"E": "vízisikló (3)",
+		"F": "gyümölcsfa (5)",
+		"cardnumber": "230"
+	},
+	{
+		"A": "ökörszem (3)",
+		"B": "melléktevékenység (4)",
+		"C": "biztosítótű (4)",
+		"D": "szamárfül (3)",
+		"E": "lánc: papírpénz",
+		"F": "vasököl (6)",
+		"cardnumber": "249"
+	},
+	{
+		"A": "ranglétra (4)",
+		"B": "élőmunka (5)",
+		"C": "versenyfutás (5)",
+		"D": "nyakörv (3)",
+		"E": "ellenlábas (6)",
+		"F": "konyhaművészet (6)",
+		"cardnumber": "259"
+	},
+	{
+		"A": "békaember (3)",
+		"B": "tözsdeügynök (4)",
+		"C": "gyertyaöntő (3)",
+		"D": "békalencse (4)",
+		"E": "egyházadó (6)",
+		"F": "macskaugrás (5)",
+		"cardnumber": "269"
+	},
+	{
+		"A": "gyárigazgató (6)",
+		"B": "víziszony (3)",
+		"C": "cigányzene (5)",
+		"D": "pipadohány (4)",
+		"E": "körforgalom (4)",
+		"F": "autóvezető (5)",
+		"cardnumber": "279"
+	},
+	{
+		"A": "bölcsődal (4)",
+		"B": "üvegkeret (3)",
+		"C": "ácskapocs (5)",
+		"D": "harangvirág (3)",
+		"E": "pénznem (4)",
+		"F": "galambdúc (6)",
+		"cardnumber": "289"
+	},
+	{
+		"A": "gólyahír (4)",
+		"B": "rím: mező",
+		"C": "színvakság (6)",
+		"D": "mélygarázs (5)",
+		"E": "becsületsértés (4)",
+		"F": "vakrepülés (4)",
+		"cardnumber": "308"
+	},
+	{
+		"A": "gyermekláncfű (3)",
+		"B": "véleménykutatás (4)",
+		"C": "ugródeszka (4)",
+		"D": "dugaszolóaljzat (3)",
+		"E": "alkancellár (6)",
+		"F": "rövidlátás (5)",
+		"cardnumber": "318"
+	},
+	{
+		"A": "karikaláb (4)",
+		"B": "szemorvos (3)",
+		"C": "füstkarika (5)",
+		"D": "káposztafej (4)",
+		"E": "bűnbeesés (6)",
+		"F": "rím: látni",
+		"cardnumber": "328"
+	},
+	{
+		"A": "cseppkőbarlang (6)",
+		"B": "ingyenélő (4)",
+		"C": "tánclépés (4)",
+		"D": "ózonréteg (5)",
+		"E": "savtúltengés (4)",
+		"F": "cukorbetegség (5)",
+		"cardnumber": "229"
+	},
+	{
+		"A": "fagylaltgombóc (5)",
+		"B": "helyesírás (4)",
+		"C": "őrkutya (4)",
+		"D": "nyelőcső (3)",
+		"E": "multimilliomos (6)",
+		"F": "rím: zseni",
+		"cardnumber": "239"
+	},
+	{
+		"A": "autómosó (4)",
+		"B": "egyensúlyhelyzet (3)",
+		"C": "vízilabda (3)",
+		"D": "csendélet (5)",
+		"E": "váltópénz (6)",
+		"F": "vízfesték (4)",
+		"cardnumber": "258"
+	},
+	{
+		"A": "gyújtólencse (4)",
+		"B": "szilvalekvár (3)",
+		"C": "ülőmunka (5)",
+		"D": "lánc: szigetország",
+		"E": "virághagyma (6)",
+		"F": "férfikórus (5)",
+		"cardnumber": "268"
+	},
+	{
+		"A": "függönytartó (3)",
+		"B": "készház (4)",
+		"C": "békakirály (3)",
+		"D": "szabadrúgás (4)",
+		"E": "szárazföld (6)",
+		"F": "célratörés (6)",
+		"cardnumber": "278"
+	},
+	{
+		"A": "pofonütés (3)",
+		"B": "gyámkő (4)",
+		"C": "ragtapasz (5)",
+		"D": "vastüdő (4)",
+		"E": "életcél (6)",
+		"F": "szélcsend (3)",
+		"cardnumber": "288"
+	},
+	{
+		"A": "agyékkötő (4)",
+		"B": "fogyókúra (3)",
+		"C": "lánc: kőszerszám",
+		"D": "ködfénylámpa (4)",
+		"E": "szűkmarkúság (6)",
+		"F": "tüskebokor (5)",
+		"cardnumber": "298"
+	},
+	{
+		"A": "vályogtégla (3)",
+		"B": "előfeltétel (4)",
+		"C": "felöltő (5)",
+		"D": "lánc: pluszjel",
+		"E": "kézírás (6)",
+		"F": "jelmeztervező (5)",
+		"cardnumber": "317"
+	},
+	{
+		"A": "gyaloghintó (4)",
+		"B": "vízkő (3)",
+		"C": "tapsvihar (5)",
+		"D": "kígyóhagyma (6)",
+		"E": "olvadóbiztosíték (4)",
+		"F": "vásárlóerő (5)",
+		"cardnumber": "327"
+	},
+	{
+		"A": "számlap (3)",
+		"B": "habselyem (4)",
+		"C": "véradó (4)",
+		"D": "rajtszám (6)",
+		"E": "rím: fájdalom",
+		"F": "sportszív (6)",
+		"cardnumber": "228"
+	},
+	{
+		"A": "varrógép (3)",
+		"B": "csapatgyakorlat (4)",
+		"C": "púderdoboz (5)",
+		"D": "motorfedél (6)",
+		"E": "mesefilm (3)",
+		"F": "szégyenfolt (4)",
+		"cardnumber": "238"
+	},
+	{
+		"A": "szökőév (5)",
+		"B": "szépségideál (6)",
+		"C": "vakbuzgalom (5)",
+		"D": "uborkásüveg (4)",
+		"E": "moziműsor (3)",
+		"F": "kézfelemelés (4)",
+		"cardnumber": "248"
+	},
+	{
+		"A": "újságolvasó (4)",
+		"B": "eskütétel (3)",
+		"C": "patkányméreg (6)",
+		"D": "anyatej (4)",
+		"E": "kisváros (3)",
+		"F": "éleslövészet (5)",
+		"cardnumber": "267"
+	},
+	{
+		"A": "veteményeskert (5)",
+		"B": "ébrenlét (3)",
+		"C": "lesipuskás (5)",
+		"D": "kábeltévé (3)",
+		"E": "rím: kutya",
+		"F": "fülesbagoly (6)",
+		"cardnumber": "277"
+	},
+	{
+		"A": "rím: kincs",
+		"B": "idénymunka (4)",
+		"C": "egyensúlyzavar (5)",
+		"D": "olvasólámpa (6)",
+		"E": "gipszszobor (4)",
+		"F": "maratonfutás (4)",
+		"cardnumber": "287"
+	},
+	{
+		"A": "mandzsettagomb (3)",
+		"B": "vármegye (4)",
+		"C": "fénykép (4)",
+		"D": "füstifecske (6)",
+		"E": "előkép (3)",
+		"F": "eszméletvesztés (3)",
+		"cardnumber": "297"
+	},
+	{
+		"A": "kürtöskalács (6)",
+		"B": "hulladéklerakó (3)",
+		"C": "erősáram (5)",
+		"D": "söralátét (4)",
+		"E": "kártyajárás (5)",
+		"F": "vívóállás (5)",
+		"cardnumber": "307"
+	},
+	{
+		"A": "értékcsomag (5)",
+		"B": "mondaalak (4)",
+		"C": "kártyavetés (6)",
+		"D": "orsócsont (5)",
+		"E": "ellensúly (4)",
+		"F": "sárkányeresztés (3)",
+		"cardnumber": "326"
+	},
+	{
+		"A": "csőposta (4)",
+		"B": "kerékbetörés (5)",
+		"C": "homokszita (4)",
+		"D": "csonthártya (4)",
+		"E": "támaszpont (3)",
+		"F": "jósnő (6)",
+		"cardnumber": "227"
+	},
+	{
+		"A": "szomorúfűz (3)",
+		"B": "pehelytoll (3)",
+		"C": "húsevő (6)",
+		"D": "gyászkeret (4)",
+		"E": "kengyelvas (3)",
+		"F": "szájíz (5)",
+		"cardnumber": "237"
+	},
+	{
+		"A": "tarkólövés (6)",
+		"B": "szállodalánc (3)",
+		"C": "párbajtörvívás (5)",
+		"D": "fenyőerdő (4)",
+		"E": "jóváírás (4)",
+		"F": "lóerő (5)",
+		"cardnumber": "247"
+	},
+	{
+		"A": "hajnalcsillag (4)",
+		"B": "díjkedvezmény (3)",
+		"C": "leveskocka (4)",
+		"D": "halottaskocsi (6)",
+		"E": "átlagfogyasztó (5)",
+		"F": "leveseskanál (3)",
+		"cardnumber": "257"
+	},
+	{
+		"A": "ruhakefe (3)",
+		"B": "fegyvernyugvás (3)",
+		"C": "rágógumi (4)",
+		"D": "sörösrekesz (4)",
+		"E": "világkongresszus (6)",
+		"F": "jelbeszéd (5)",
+		"cardnumber": "276"
+	},
+	{
+		"A": "fegyencruha (5)",
+		"B": "autólopás (3)",
+		"C": "fazekaskorong (6)",
+		"D": "bikanyak (4)",
+		"E": "tolvajszerszám (4)",
+		"F": "tetszhalott (5)",
+		"cardnumber": "286"
+	},
+	{
+		"A": "autóstop (5)",
+		"B": "főfoglalkozás (6)",
+		"C": "nevetőgörcs (3)",
+		"D": "hangszóró (3)",
+		"E": "főétkezés (3)",
+		"F": "rím: lejtő",
+		"cardnumber": "296"
+	},
+	{
+		"A": "sziklakert (5)",
+		"B": "találkozóhely (4)",
+		"C": "sétapálca (3)",
+		"D": "kaputelefon (4)",
+		"E": "színárnyalat (6)",
+		"F": "tyúklétra (6)",
+		"cardnumber": "306"
+	},
+	{
+		"A": "motorcsónak (3)",
+		"B": "katonatiszt (4)",
+		"C": "hálóing (6)",
+		"D": "terelősín (4)",
+		"E": "méreteltérés (5)",
+		"F": "cukorbevonat (5)",
+		"cardnumber": "316"
+	},
+	{
+		"A": "zászlóavatás (5)",
+		"B": "tolvajnyelv (4)",
+		"C": "kutyapóráz (3)",
+		"D": "árkádsor (5)",
+		"E": "lakásbejelentés (3)",
+		"F": "hasbeszélő (6)",
+		"cardnumber": "336"
+	},
+	{
+		"A": "lánc: színművészet",
+		"B": "jogkövetkezmény (6)",
+		"C": "címszerep (5)",
+		"D": "ajtózár (3)",
+		"E": "vendégsereg (4)",
+		"F": "utánjárás (4)",
+		"cardnumber": "236"
+	},
+	{
+		"A": "kupagyőztes (5)",
+		"B": "vontatókötél (4)",
+		"C": "bolhabetű (5)",
+		"D": "lánc: népdal",
+		"E": "hölgyismerős (6)",
+		"F": "vérszomj (6)",
+		"cardnumber": "246"
+	},
+	{
+		"A": "rím: szél",
+		"B": "adóbevallás (4)",
+		"C": "mennykő (6)",
+		"D": "betűkép (5)",
+		"E": "látszatintézkedés (5)",
+		"F": "oldalborda (4)",
+		"cardnumber": "256"
+	},
+	{
+		"A": "autótérkép (3)",
+		"B": "ablakkeret (6)",
+		"C": "kávécserje (4)",
+		"D": "esőszitálás (5)",
+		"E": "ablakmélyedés (3)",
+		"F": "cigarettavég (3)",
+		"cardnumber": "266"
+	},
+	{
+		"A": "műkorcsolyázás (3)",
+		"B": "élettartam (4)",
+		"C": "előrelátás (3)",
+		"D": "nászajándék (6)",
+		"E": "vezérfonal (4)",
+		"F": "szódásüveg (4)",
+		"cardnumber": "400"
+	},
+	{
+		"A": "feketeleves (5)",
+		"B": "rügyfakadás (6)",
+		"C": "dobpergés (4)",
+		"D": "felhőszakadás (3)",
+		"E": "horgászfelszerelés (4)",
+		"F": "köpőcsésze (3)",
+		"cardnumber": "410"
+	},
+	{
+		"A": "hídkorlát (4)",
+		"B": "bájital (4)",
+		"C": "testsúly (5)",
+		"D": "cipőkanál (3)",
+		"E": "zenetörténet (6)",
+		"F": "rulettasztal (6)",
+		"cardnumber": "420"
+	},
+	{
+		"A": "olvasztókemence (6)",
+		"B": "óraüveg (4)",
+		"C": "falvédő (3)",
+		"D": "lepkegyűjtemény (3)",
+		"E": "riadókészültség (4)",
+		"F": "gátfutás (5)",
+		"cardnumber": "430"
+	},
+	{
+		"A": "csigalépcső (4)",
+		"B": "szódavíz (3)",
+		"C": "balettlépés (4)",
+		"D": "svájcisapka (3)",
+		"E": "rövidzárlat (3)",
+		"F": "mellkép (6)",
+		"cardnumber": "440"
+	},
+	{
+		"A": "hegedűhúr (3)",
+		"B": "visszaáru (5)",
+		"C": "tyúkszem (4)",
+		"D": "lószőr (4)",
+		"E": "valutaárfolyam (3)",
+		"F": "visszahőkölés (6)",
+		"cardnumber": "350"
+	},
+	{
+		"A": "betegágy (4)",
+		"B": "kártérítés (3)",
+		"C": "másnaposság (6)",
+		"D": "koponyatető (5)",
+		"E": "gyógytea (4)",
+		"F": "nadrágtartó (3)",
+		"cardnumber": "360"
+	},
+	{
+		"A": "strucctoll (4)",
+		"B": "leányvállalat (3)",
+		"C": "villámtempó (5)",
+		"D": "virágméz (6)",
+		"E": "rím: illat",
+		"F": "nebáncsvirág (6)",
+		"cardnumber": "370"
+	},
+	{
+		"A": "hajótörött (4)",
+		"B": "feketelista (4)",
+		"C": "tüdőasztma (5)",
+		"D": "földigiliszta (3)",
+		"E": "villanykapcsoló (4)",
+		"F": "tűzifa (6)",
+		"cardnumber": "380"
+	},
+	{
+		"A": "házigazda (4)",
+		"B": "szemránc (3)",
+		"C": "káröröm (5)",
+		"D": "tornacsarnok (4)",
+		"E": "lánc: bankjegy",
+		"F": "hangerő (6)",
+		"cardnumber": "390"
+	},
+	{
+		"A": "áramkör (6)",
+		"B": "haszonleső (3)",
+		"C": "rím: árok",
+		"D": "áramforrás (5)",
+		"E": "olvasnivaló (4)",
+		"F": "széllökés (5)",
+		"cardnumber": "409"
+	},
+	{
+		"A": "búzakalász (3)",
+		"B": "csecsemőkor (4)",
+		"C": "gyermekcipő (5)",
+		"D": "méhraj (5)",
+		"E": "rím: rohanás",
+		"F": "kacsaúsztató (6)",
+		"cardnumber": "419"
+	},
+	{
+		"A": "útmutató (3)",
+		"B": "fakopáncs (4)",
+		"C": "szívfájdalom (5)",
+		"D": "lánc: légtér",
+		"E": "aludttej (6)",
+		"F": "bohócmutatvány (6)",
+		"cardnumber": "429"
+	},
+	{
+		"A": "vízesés (3)",
+		"B": "határvédelem (4)",
+		"C": "könnycsepp (3)",
+		"D": "lakókocsi (4)",
+		"E": "vevőcsalogatás (4)",
+		"F": "koporsószeg (6)",
+		"cardnumber": "439"
+	},
+	{
+		"A": "felsőkar (3)",
+		"B": "hidegvágó (4)",
+		"C": "rím: gát",
+		"D": "köldöksérv (3)",
+		"E": "honfoglalás (4)",
+		"F": "rendszeretet (6)",
+		"cardnumber": "340"
+	},
+	{
+		"A": "földvár (4)",
+		"B": "rím: várni",
+		"C": "futóbolond (6)",
+		"D": "kéményseprő (3)",
+		"E": "halastó (3)",
+		"F": "gyomorkeserű (5)",
+		"cardnumber": "359"
+	},
+	{
+		"A": "tintahal (3)",
+		"B": "csempészáru (4)",
+		"C": "súlyveszteség (5)",
+		"D": "állatkert (4)",
+		"E": "aranyműves (3)",
+		"F": "öntözőkanna (6)",
+		"cardnumber": "369"
+	},
+	{
+		"A": "szitakötő (4)",
+		"B": "filctoll (3)",
+		"C": "karkötő (3)",
+		"D": "körhinta (3)",
+		"E": "tárház (6)",
+		"F": "rím: bárány",
+		"cardnumber": "379"
+	},
+	{
+		"A": "félsziget (3)",
+		"B": "hiánycikk (4)",
+		"C": "teherautó (5)",
+		"D": "hajszín (4)",
+		"E": "mérőműszer (6)",
+		"F": "lámpaláz (4)",
+		"cardnumber": "389"
+	},
+	{
+		"A": "rím: turista",
+		"B": "hidegfront (3)",
+		"C": "térdhajlítás (6)",
+		"D": "esernyőtartó (3)",
+		"E": "sóskamártás (4)",
+		"F": "nőiszeszély (5)",
+		"cardnumber": "399"
+	},
+	{
+		"A": "lánchíd (4)",
+		"B": "csodafegyver (3)",
+		"C": "csúszómászó (5)",
+		"D": "páncéling (5)",
+		"E": "légnyomás (6)",
+		"F": "mennyezetvilágítás (4)",
+		"cardnumber": "418"
+	},
+	{
+		"A": "strucctojás (4)",
+		"B": "mellbőség (4)",
+		"C": "tejfog (3)",
+		"D": "tollpárna (4)",
+		"E": "diákcsíny (6)",
+		"F": "díszlépés (5)",
+		"cardnumber": "428"
+	},
+	{
+		"A": "hullámvölgy (4)",
+		"B": "ötletpályázat (3)",
+		"C": "lánc: sajtóhiba",
+		"D": "célegyenes (5)",
+		"E": "függőkert (6)",
+		"F": "könyvkötő (3)",
+		"cardnumber": "438"
+	},
+	{
+		"A": "szövőszék (4)",
+		"B": "cserekereskedelem (6)",
+		"C": "olajág (5)",
+		"D": "gyöngyvirág (3)",
+		"E": "emlékház (4)",
+		"F": "lelőhely (5)",
+		"cardnumber": "339"
+	},
+	{
+		"A": "szénbánya (5)",
+		"B": "mondanivaló (4)",
+		"C": "versenybicikli (3)",
+		"D": "rénszarvas (4)",
+		"E": "fagyállóság (3)",
+		"F": "túszszedés (6)",
+		"cardnumber": "349"
+	},
+	{
+		"A": "kellbimbó (3)",
+		"B": "spanyolcsizma (4)",
+		"C": "ostornyél (5)",
+		"D": "mélyrepülés (4)",
+		"E": "alibi (6)",
+		"F": "puskacső (3)",
+		"cardnumber": "368"
+	},
+	{
+		"A": "virágszőnyeg (5)",
+		"B": "sápkór (3)",
+		"C": "nikotinmérgezés (6)",
+		"D": "lábtörlő (4)",
+		"E": "égtáj (3)",
+		"F": "kisagy (4)",
+		"cardnumber": "378"
+	},
+	{
+		"A": "hajfonat (4)",
+		"B": "fotópapír (3)",
+		"C": "menyasszonytánc (5)",
+		"D": "sárkánygyökér (6)",
+		"E": "szalontüdő (4)",
+		"F": "operaénekes (5)",
+		"cardnumber": "388"
+	},
+	{
+		"A": "másodpercmutató (3)",
+		"B": "állattenyésztés (6)",
+		"C": "szarvasagancs (5)",
+		"D": "vesszőkosár (4)",
+		"E": "baromfitenyésztés (3)",
+		"F": "varázsvessző (3)",
+		"cardnumber": "398"
+	},
+	{
+		"A": "viharjelzés (5)",
+		"B": "madárfióka (3)",
+		"C": "síugrás (3)",
+		"D": "zöldbab (4)",
+		"E": "fűtőfelület (4)",
+		"F": "előfutár (6)",
+		"cardnumber": "408"
+	},
+	{
+		"A": "rím: malom",
+		"B": "levéltárca (3)",
+		"C": "nehézlovasság (5)",
+		"D": "ívóvíz (6)",
+		"E": "színművészet (4)",
+		"F": "bölcsességfog (4)",
+		"cardnumber": "427"
+	},
+	{
+		"A": "váróterem (5)",
+		"B": "pénzügyminiszter (4)",
+		"C": "divatbemutató (4)",
+		"D": "vészcsengő (6)",
+		"E": "ételmérgezés (3)",
+		"F": "divattervező (5)",
+		"cardnumber": "437"
+	},
+	{
+		"A": "gyertyafény (6)",
+		"B": "ábrándkép (4)",
+		"C": "fotómodell (3)",
+		"D": "földimogyoró (4)",
+		"E": "jóakaró (3)",
+		"F": "gyémántfúró (5)",
+		"cardnumber": "338"
+	},
+	{
+		"A": "papírgyár (5)",
+		"B": "olajszármazék (4)",
+		"C": "lánc: öleb",
+		"D": "teherhajó (5)",
+		"E": "lucaszék (6)",
+		"F": "hónalj (4)",
+		"cardnumber": "348"
+	},
+	{
+		"A": "aknamező (6)",
+		"B": "önuralom (4)",
+		"C": "vastaps (3)",
+		"D": "kutyagumi (5)",
+		"E": "gyógyforrás (3)",
+		"F": "tudásszomj (5)",
+		"cardnumber": "358"
+	},
+	{
+		"A": "lánc: csigavér",
+		"B": "csodaszarvas (6)",
+		"C": "miniszoknya (3)",
+		"D": "cipőkefe (4)",
+		"E": "félreértés (3)",
+		"F": "gombfoci (5)",
+		"cardnumber": "377"
+	},
+	{
+		"A": "izomláz (6)",
+		"B": "állatkísérlet (3)",
+		"C": "rövidital (5)",
+		"D": "tűzhányó (5)",
+		"E": "halálraítélt (4)",
+		"F": "szépségverseny (4)",
+		"cardnumber": "387"
+	},
+	{
+		"A": "nyaklánc (3)",
+		"B": "kocsiponyva (4)",
+		"C": "fejvadász (3)",
+		"D": "kéztörés (4)",
+		"E": "színpompa (5)",
+		"F": "fejpénz (6)",
+		"cardnumber": "397"
+	},
+	{
+		"A": "fűrészbak (4)",
+		"B": "kocogómozgalom (3)",
+		"C": "gyapjútakaró (4)",
+		"D": "kocsiemelő (6)",
+		"E": "úszóválogatott (3)",
+		"F": "hóember (4)",
+		"cardnumber": "407"
+	},
+	{
+		"A": "szélzsák (4)",
+		"B": "zajvédelem (3)",
+		"C": "hátszél (5)",
+		"D": "kifestőkönyv (6)",
+		"E": "fényhatás (4)",
+		"F": "visszalépés (4)",
+		"cardnumber": "417"
+	},
+	{
+		"A": "kecsketej (4)",
+		"B": "goldolatátvitel (5)",
+		"C": "fuvolaművész (6)",
+		"D": "bőregér (5)",
+		"E": "fenyőtoboz (3)",
+		"F": "szélfogó (5)",
+		"cardnumber": "436"
+	},
+	{
+		"A": "úttest (4)",
+		"B": "kékharisnya (5)",
+		"C": "asztaltáncoltatás (4)",
+		"D": "lánc: jegyzettömb",
+		"E": "termálfürdő (6)",
+		"F": "pipereszappan (6)",
+		"cardnumber": "337"
+	},
+	{
+		"A": "páncélüveg (5)",
+		"B": "tetőnyereg (4)",
+		"C": "személykocsi (4)",
+		"D": "ecsetvonás (6)",
+		"E": "ötforintos (4)",
+		"F": "fejcsóválás (4)",
+		"cardnumber": "347"
+	},
+	{
+		"A": "szellemvasút (5)",
+		"B": "tépőzár (4)",
+		"C": "hármasugrás (5)",
+		"D": "tortakés (3)",
+		"E": "vegyeskereskedés (6)",
+		"F": "nadrágtartó (6)",
+		"cardnumber": "357"
+	},
+	{
+		"A": "kazánkovács (5)",
+		"B": "házibarát (3)",
+		"C": "kötőtű (4)",
+		"D": "lánc: erdőszél",
+		"E": "háziszarka (6)",
+		"F": "csuklóvédő (5)",
+		"cardnumber": "367"
+	},
+	{
+		"A": "támlásszék (4)",
+		"B": "istentagadó (3)",
+		"C": "tolvajkulcs (4)",
+		"D": "lánc: főzőkolbász",
+		"E": "szélmalomharc (6)",
+		"F": "pásztorsíp (6)",
+		"cardnumber": "386"
+	},
+	{
+		"A": "mentőcsónak (4)",
+		"B": "fűszervaj (3)",
+		"C": "tériszony (4)",
+		"D": "földönfutó (5)",
+		"E": "beszédtéma (3)",
+		"F": "helyreigazítás (6)",
+		"cardnumber": "396"
+	},
+	{
+		"A": "légpuska (4)",
+		"B": "idegenlégió (3)",
+		"C": "vérhas (6)",
+		"D": "meseország (5)",
+		"E": "szeretethiány (4)",
+		"F": "halálfélelem (3)",
+		"cardnumber": "406"
+	},
+	{
+		"A": "könyökvédő (5)",
+		"B": "lánc: profisport",
+		"C": "játékvasút (6)",
+		"D": "mackónadrág (3)",
+		"E": "életszínvonal (4)",
+		"F": "lábujjhegy (4)",
+		"cardnumber": "416"
+	},
+	{
+		"A": "földieper (3)",
+		"B": "tájjelleg (6)",
+		"C": "hidegtál (5)",
+		"D": "kakukkfű (4)",
+		"E": "vérátömlesztés (3)",
+		"F": "slusszkulcs (3)",
+		"cardnumber": "426"
+	},
+	{
+		"A": "hordódonga (3)",
+		"B": "szerencseszám (3)",
+		"C": "istentisztelet (6)",
+		"D": "kutyaól (3)",
+		"E": "gyermekfalu (4)",
+		"F": "négylábúak (5)",
+		"cardnumber": "220"
+	},
+	{
+		"A": "vasfüggöny (5)",
+		"B": "előítélet (4)",
+		"C": "ököljog (6)",
+		"D": "tetőszék (4)",
+		"E": "csomagfelvétel (3)",
+		"F": "földművelés (5)",
+		"cardnumber": "346"
+	},
+	{
+		"A": "palánkkerítés (6)",
+		"B": "takarékbetétkönyv (4)",
+		"C": "méhcsípés (5)",
+		"D": "bélyegalbum (3)",
+		"E": "falumúzeum (4)",
+		"F": "lánc: sportcipő",
+		"cardnumber": "356"
+	},
+	{
+		"A": "gyertyafény (4)",
+		"B": "csataló (3)",
+		"C": "macskakaparás (6)",
+		"D": "vasmacska (3)",
+		"E": "hegyvonulat (4)",
+		"F": "homlokpánt (5)",
+		"cardnumber": "366"
+	},
+	{
+		"A": "tengerszem (6)",
+		"B": "oroszlánrész (4)",
+		"C": "zongorakészítő",
+		"D": "matrózblúz (5)",
+		"E": "aranyhörcsög (4)",
+		"F": "aranylánc (4)",
+		"cardnumber": "376"
+	},
+	{
+		"A": "csokoládépuding (5)",
+		"B": "kisérőirat (4)",
+		"C": "sírásó (6)",
+		"D": "krumpliorr (3)",
+		"E": "macskagyökér (4)",
+		"F": "bukósisak (3)",
+		"cardnumber": "170"
+	},
+	{
+		"A": "hidegháború (5)",
+		"B": "felsőfok (3)",
+		"C": "villásreggeli (5)",
+		"D": "gyökérkezelés (6)",
+		"E": "rím: kéz",
+		"F": "zsinórírás (6)",
+		"cardnumber": "180"
+	},
+	{
+		"A": "védőszemüveg (5)",
+		"B": "hídboltozat (4)",
+		"C": "hétalvó (6)",
+		"D": "vasút (3)",
+		"E": "terhességmegszakítás (3)",
+		"F": "sarokasztal (4)",
+		"cardnumber": "190"
+	},
+	{
+		"A": "hajcsat (3)",
+		"B": "kormánynyilatkozat (6)",
+		"C": "éhségsztrájk (5)",
+		"D": "gyűjtőpersely (4)",
+		"E": "félhang (3)",
+		"F": "hanglemez (3)",
+		"cardnumber": "200"
+	},
+	{
+		"A": "súlyfürdő (4)",
+		"B": "vezércikk (3)",
+		"C": "szerencsekerék (3)",
+		"D": "óriáskerék (3)",
+		"E": "vitorlázórepülés (4)",
+		"F": "gömbvillám (6)",
+		"cardnumber": "210"
+	},
+	{
+		"A": "hullócsillag (4)",
+		"B": "árnyjáték (4)",
+		"C": "májzsugor (5)",
+		"D": "csoportkép (6)",
+		"E": "alapfogalom (4)",
+		"F": "evőeszköz (3)",
+		"cardnumber": "120"
+	},
+	{
+		"A": "ajtófélfa (3)",
+		"B": "vezetőhelyettes (3)",
+		"C": "rózsafüzér (5)",
+		"D": "atombomba (6)",
+		"E": "faúsztatás (3)",
+		"F": "karikagyűrű (4)",
+		"cardnumber": "130"
+	},
+	{
+		"A": "tornaóra (6)",
+		"B": "alkotmánybíróság (4)",
+		"C": "szörfdeszka (4)",
+		"D": "rózsaszirom (3)",
+		"E": "vállveregetés (3)",
+		"F": "tortalap (5)",
+		"cardnumber": "140"
+	},
+	{
+		"A": "négykézláb (6)",
+		"B": "lánc: fogorvos",
+		"C": "fürdőkabin (5)",
+		"D": "negyedóra (4)",
+		"E": "részletfizetés (3)",
+		"F": "rémkép (4)",
+		"cardnumber": "150"
+	},
+	{
+		"A": "csavarhúzó (3)",
+		"B": "ötvösmunka (5)",
+		"C": "lánc: fiatalkor",
+		"D": "légcsavar (4)",
+		"E": "fajdkakas (6)",
+		"F": "zsákfutás (4)",
+		"cardnumber": "160"
+	},
+	{
+		"A": "ápolónő (4)",
+		"B": "korszak (3)",
+		"C": "mentőautó (5)",
+		"D": "teknősbéka (3)",
+		"E": "bérkiegészítés (3)",
+		"F": "beteglátogatás (6)",
+		"cardnumber": "179"
+	},
+	{
+		"A": "lánc: árpasör",
+		"B": "pénzpiac (6)",
+		"C": "pénztekercs (4)",
+		"D": "pénztárca (3)",
+		"E": "szériafelszerelés (4)",
+		"F": "mennybemenetel (5)",
+		"cardnumber": "189"
+	},
+	{
+		"A": "menekülttábor (6)",
+		"B": "rangsor (4)",
+		"C": "lángszóró (5)",
+		"D": "tárgyalóterem (5)",
+		"E": "tápanyag (4)",
+		"F": "sasszem (5)",
+		"cardnumber": "199"
+	},
+	{
+		"A": "autópark (3)",
+		"B": "nemtörődömség (3)",
+		"C": "csónakház (5)",
+		"D": "olvasószemüveg (4)",
+		"E": "magaviselet (4)",
+		"F": "üresjárat (6)",
+		"cardnumber": "209"
+	},
+	{
+		"A": "autóantenna (3)",
+		"B": "rím: nevetés",
+		"C": "fürdőruha (6)",
+		"D": "bányarém (4)",
+		"E": "közönségszolgálat (3)",
+		"F": "hamiskártyás (5)",
+		"cardnumber": "219"
+	},
+	{
+		"A": "álházasság (5)",
+		"B": "nyerscukor (3)",
+		"C": "tetűfészek (6)",
+		"D": "portásfülke (5)",
+		"E": "rivaldafény (4)",
+		"F": "ékszerdoboz (4)",
+		"cardnumber": "129"
+	},
+	{
+		"A": "toronyóra (3)",
+		"B": "tyúkeszűség (4)",
+		"C": "faliújság (5)",
+		"D": "szőlőszüret (6)",
+		"E": "rím: elnyomás",
+		"F": "nadrágfék (6)",
+		"cardnumber": "139"
+	},
+	{
+		"A": "szögesdrót (3)",
+		"B": "nyomdahiba (3)",
+		"C": "széngáz (5)",
+		"D": "kacsaláb (4)",
+		"E": "fogaskerék (6)",
+		"F": "homlokránc (6)",
+		"cardnumber": "149"
+	},
+	{
+		"A": "papsajt (5)",
+		"B": "szűzpecsenye (4)",
+		"C": "magánbeszélgetés (5)",
+		"D": "táborkonyha (6)",
+		"E": "tűzvarázs (4)",
+		"F": "harapófogó (3)",
+		"cardnumber": "159"
+	},
+	{
+		"A": "gyorsvonat (4)",
+		"B": "rím: beteg",
+		"C": "öleb (6)",
+		"D": "keselyű (3)",
+		"E": "diákélmény (4)",
+		"F": "autóút (5)",
+		"cardnumber": "169"
+	},
+	{
+		"A": "szexbomba (6)",
+		"B": "szülőváros (3)",
+		"C": "hóhérpallos (5)",
+		"D": "halálfej (4)",
+		"E": "hangjáték (4)",
+		"F": "visszhang (5)",
+		"cardnumber": "188"
+	},
+	{
+		"A": "világháború (3)",
+		"B": "hatótávolság (4)",
+		"C": "gyárkémény (4)",
+		"D": "lánc: divatkirály",
+		"E": "légyraj (6)",
+		"F": "füstjel (6)",
+		"cardnumber": "198"
+	},
+	{
+		"A": "fúrósziget (4)",
+		"B": "terrorcselekmény (3)",
+		"C": "lánc: ellenméreg",
+		"D": "násznép (4)",
+		"E": "emberpalánta (6)",
+		"F": "véreb (3)",
+		"cardnumber": "208"
+	},
+	{
+		"A": "félárbóc (6)",
+		"B": "törvénykönyv (4)",
+		"C": "biciklilánc (4)",
+		"D": "babkaró (3)",
+		"E": "sarokpillér (3)",
+		"F": "fékpofa (5)",
+		"cardnumber": "218"
+	},
+	{
+		"A": "szerencsemalac (3)",
+		"B": "ülősztrájk (4)",
+		"C": "hangyaszorgalom (6)",
+		"D": "őzgerinc (5)",
+		"E": "pénztárkönyv (4)",
+		"F": "gólyafészek (5)",
+		"cardnumber": "119"
+	},
+	{
+		"A": "homokvihar (4)",
+		"B": "lakóautó (3)",
+		"C": "szembekötősdi (4)",
+		"D": "csizmanadrág (4)",
+		"E": "élőhely (5)",
+		"F": "büntetődobás (6)",
+		"cardnumber": "138"
+	},
+	{
+		"A": "várúr (5)",
+		"B": "pálinkafőzés (3)",
+		"C": "épkézláb (4)",
+		"D": "szivarosdoboz (4)",
+		"E": "polgárcsalád (6)",
+		"F": "rím: hajnal",
+		"cardnumber": "148"
+	},
+	{
+		"A": "tűlevél (4)",
+		"B": "fiókvezető (3)",
+		"C": "kisbaba (6)",
+		"D": "filmszerep (4)",
+		"E": "túlterhelés (3)",
+		"F": "ínhúzódás (5)",
+		"cardnumber": "158"
+	},
+	{
+		"A": "uborkagyalu (5)",
+		"B": "látnivaló (3)",
+		"C": "szakorvos (5)",
+		"D": "pápaszem (3)",
+		"E": "szaknyelv (6)",
+		"F": "utcagyerek (6)",
+		"cardnumber": "168"
+	},
+	{
+		"A": "keresztkötés (4)",
+		"B": "feketepiac (3)",
+		"C": "körömkefe (3)",
+		"D": "kőomlás (4)",
+		"E": "vakmerőség (6)",
+		"F": "szépségkirálynő (5)",
+		"cardnumber": "178"
+	},
+	{
+		"A": "bokszkesztyű (3)",
+		"B": "tettenérés (4)",
+		"C": "talajtorna (5)",
+		"D": "jelzőlámpa (6)",
+		"E": "köszönetnyilvánítás (4)",
+		"F": "zongorabillentyű (5)",
+		"cardnumber": "207"
+	},
+	{
+		"A": "zászlóerdő (5)",
+		"B": "pasztellszín (3)",
+		"C": "tehénlepény (4)",
+		"D": "furulyaszó (5)",
+		"E": "újraválasztás (6)",
+		"F": "radírgumi (3)",
+		"cardnumber": "197"
+	},
+	{
+		"A": "virágállvány (3)",
+		"B": "cseresznyemag (3)",
+		"C": "fúrókalapács (4)",
+		"D": "arcüreg (5)",
+		"E": "munkabeszüntetés (6)",
+		"F": "fúrótorony (6)",
+		"cardnumber": "217"
+	},
+	{
+		"A": "sugárút (3)",
+		"B": "anyaszomorító (6)",
+		"C": "gyorsírás (5)",
+		"D": "családfa (4)",
+		"E": "játékszenvedély (4)",
+		"F": "rím: bolha",
+		"cardnumber": "118"
+	},
+	{
+		"A": "koporsófedél (4)",
+		"B": "rím: sorozás",
+		"C": "szélkakas (6)",
+		"D": "tréningnadrág (5)",
+		"E": "szójáték (4)",
+		"F": "tüsszentőpor (3)",
+		"cardnumber": "128"
+	},
+	{
+		"A": "szóáradat (5)",
+		"B": "vérnyomás (4)",
+		"C": "cigarettaszünet (5)",
+		"D": "házsor (6)",
+		"E": "ivópajtás (3)",
+		"F": "útmutatás (4)",
+		"cardnumber": "147"
+	},
+	{
+		"A": "virágvasárnap (5)",
+		"B": "küldöncszolgálat (6)",
+		"C": "filmszakadás (4)",
+		"D": "balszerencse (5)",
+		"E": "telefonvonal (3)",
+		"F": "rím: repülés",
+		"cardnumber": "157"
+	},
+	{
+		"A": "gömbfej (6)",
+		"B": "gyermekáldás (3)",
+		"C": "telefonfülke (3)",
+		"D": "tehervonat (4)",
+		"E": "széltoló (4)",
+		"F": "lánc: lucfenyő",
+		"cardnumber": "167"
+	},
+	{
+		"A": "anyahajó (3)",
+		"B": "díszlövés (4)",
+		"C": "lóverseny (5)",
+		"D": "lánc: játékidő",
+		"E": "védőszárny (6)",
+		"F": "gallérbőség (4)",
+		"cardnumber": "177"
+	},
+	{
+		"A": "szarufésű (3)",
+		"B": "vargabetű (4)",
+		"C": "iskolakerülő (5)",
+		"D": "szentjánosbogár (4)",
+		"E": "iskolakötelezettség (6)",
+		"F": "imaszőnyeg (6)",
+		"cardnumber": "187"
+	},
+	{
+		"A": "fészekvirágzatúak (6)",
+		"B": "zuhanyrózsa (3)",
+		"C": "mászókötél (6)",
+		"D": "tömbház (4)",
+		"E": "lelkiismeret (5)",
+		"F": "nagybetű (5)",
+		"cardnumber": "206"
+	},
+	{
+		"A": "halászhajó (6)",
+		"B": "örömhír (3)",
+		"C": "grafitceruza (4)",
+		"D": "őszirózsa (5)",
+		"E": "kopoltyúnyílás (3)",
+		"F": "lánc: sűtőpor",
+		"cardnumber": "216"
+	},
+	{
+		"A": "napkirály (6)",
+		"B": "nőcsábász (3)",
+		"C": "oldaltáska (4)",
+		"D": "perszaszőnyeg (4)",
+		"E": "határidő (4)",
+		"F": "gémeskút (5)",
+		"cardnumber": "117"
+	},
+	{
+		"A": "metszőfog (6)",
+		"B": "alcím (3)",
+		"C": "mosószappan (4)",
+		"D": "véráldozat (5)",
+		"E": "továbbtanulás (4)",
+		"F": "lánc: iskolapad",
+		"cardnumber": "127"
+	},
+	{
+		"A": "szemkidülledés (4)",
+		"B": "adóalany (3)",
+		"C": "keljfeljancsi (5)",
+		"D": "orrszarvú (3)",
+		"E": "partizánháború (6)",
+		"F": "logarléc (5)",
+		"cardnumber": "137"
+	},
+	{
+		"A": "tollvonás (6)",
+		"B": "csemegebor (4)",
+		"C": "úszógumi (3)",
+		"D": "bűnbarlang (5)",
+		"E": "többnejűség (3)",
+		"F": "körmenet (5)",
+		"cardnumber": "156"
+	},
+	{
+		"A": "zöldségleves (5)",
+		"B": "táncparkett (3)",
+		"C": "szembenállás (4)",
+		"D": "kocsiszín (4)",
+		"E": "lélekvándorlás (6)",
+		"F": "puskatűz (3)",
+		"cardnumber": "166"
+	},
+	{
+		"A": "pázsitszőnyeg (4)",
+		"B": "feketemunka (3)",
+		"C": "laposkúszás (6)",
+		"D": "cigarettacsikk (5)",
+		"E": "alapelv (3)",
+		"F": "tűzkő (4)",
+		"cardnumber": "176"
+	},
+	{
+		"A": "halkés (3)",
+		"B": "illóolaj (4)",
+		"C": "öngyújtó (4)",
+		"D": "bokasüllyedés (5)",
+		"E": "rím: élet",
+		"F": "fülkagyló (6)",
+		"cardnumber": "186"
+	},
+	{
+		"A": "rím: posta",
+		"B": "gyöngyhalász (4)",
+		"C": "halpusztulás (4)",
+		"D": "bokrétaünnep (6)",
+		"E": "pechsorozat (3)",
+		"F": "folttisztító (5)",
+		"cardnumber": "196"
+	},
+	{
+		"A": "autótemető (3)",
+		"B": "vérnarancs (3)",
+		"C": "elefántcsont (5)",
+		"D": "nyíllövés (4)",
+		"E": "betyárbecsület (6)",
+		"F": "vérkeringés (5)",
+		"cardnumber": "215"
+	},
+	{
+		"A": "hógolyó (3)",
+		"B": "fájdalomküszöb (4)",
+		"C": "csigalassúság (5)",
+		"D": "özönvíz (5)",
+		"E": "lánc: hízódisznó",
+		"F": "talpnyaló (6)",
+		"cardnumber": "116"
+	},
+	{
+		"A": "cipőtalp (3)",
+		"B": "hézagpótló (4)",
+		"C": "szájtátás (4)",
+		"D": "füstfelhő (6)",
+		"E": "babérkoszorú (4)",
+		"F": "pápalátogatás (5)",
+		"cardnumber": "126"
+	},
+	{
+		"A": "portréfestő (5)",
+		"B": "sótartalom (3)",
+		"C": "gyöngyház (4)",
+		"D": "lánc: elefántcsont",
+		"E": "klubhelyiség (6)",
+		"F": "édesvíz (4)",
+		"cardnumber": "136"
+	},
+	{
+		"A": "deszkafal (4)",
+		"B": "honvágy (4)",
+		"C": "zsebtolvaj (6)",
+		"D": "virágtartó (3)",
+		"E": "hangfal (3)",
+		"F": "állatbarát (5)",
+		"cardnumber": "146"
+	},
+	{
+		"A": "körkérdés (5)",
+		"B": "őslakos (3)",
+		"C": "sütnivaló (5)",
+		"D": "búgócsiga (6)",
+		"E": "orvostudomány (4)",
+		"F": "süketnéma (3)",
+		"cardnumber": "165"
+	},
+	{
+		"A": "füstszűrő (6)",
+		"B": "zsemlemorzsa (3)",
+		"C": "rím: fej",
+		"D": "fecskefark (3)",
+		"E": "botanikuskert (5)",
+		"F": "fogtömés (4)",
+		"cardnumber": "175"
+	},
+	{
+		"A": "boszorkányüst (4)",
+		"B": "határidőnaptár (3)",
+		"C": "férfitársaság (5)",
+		"D": "zászlóshajó (4)",
+		"E": "lelkipásztor (6)",
+		"F": "tejesüveg (4)",
+		"cardnumber": "185"
+	},
+	{
+		"A": "vidámpark (5)",
+		"B": "repülőtámaszpont (6)",
+		"C": "lövészárok (5)",
+		"D": "gereblyenyél (3)",
+		"E": "repülőtérkép (4)",
+		"F": "döntőbíró (5)",
+		"cardnumber": "195"
+	},
+	{
+		"A": "selyemlepke (4)",
+		"B": "világcsavargó (6)",
+		"C": "csomópont (5)",
+		"D": "fáklyásmenet (5)",
+		"E": "aprófa (3)",
+		"F": "rím: ugrás",
+		"cardnumber": "205"
+	},
+	{
+		"A": "bűnüldözés (5)",
+		"B": "regényhős (4)",
+		"C": "zsírkréta (4)",
+		"D": "borjúfóka (6)",
+		"E": "szalagavató (3)",
+		"F": "útkereszteződés (5)",
+		"cardnumber": "214"
+	},
+	{
+		"A": "állóóra (3)",
+		"B": "robbanóanyag (3)",
+		"C": "nyugágy (4)",
+		"D": "szájrúzs (6)",
+		"E": "divatcikk (4)",
+		"F": "tömeggyilkosság (5)",
+		"cardnumber": "115"
+	},
+	{
+		"A": "rím: tészta",
+		"B": "pikkelypáncél (4)",
+		"C": "bevásárlótáska (6)",
+		"D": "lábujj (3)",
+		"E": "hányinger (3)",
+		"F": "csepűrágó (5)",
+		"cardnumber": "125"
+	},
+	{
+		"A": "fotoriporter (4)",
+		"B": "kefelevonat (6)",
+		"C": "hasfájás (3)",
+		"D": "családfő (5)",
+		"E": "iszappakolás (3)",
+		"F": "libapecsenye (5)",
+		"cardnumber": "135"
+	},
+	{
+		"A": "tengerentúl (5)",
+		"B": "közelkép (4)",
+		"C": "hőemelkedés (5)",
+		"D": "farokuszony (3)",
+		"E": "lánc: kőolaj",
+		"F": "tengeribeteg (6)",
+		"cardnumber": "155"
+	},
+	{
+		"A": "tévéfilm (3)",
+		"B": "önismeret (4)",
+		"C": "sziklaszilárdság (5)",
+		"D": "holdkráter (5)",
+		"E": "gyászbeszéd (6)",
+		"F": "gyalogösvény (6)",
+		"cardnumber": "174"
+	},
+	{
+		"A": "vízhólyag (5)",
+		"B": "árengedmény (3)",
+		"C": "balkezes (3)",
+		"D": "futórózsa (6)",
+		"E": "sürgönystílus (4)",
+		"F": "kártyatrükk (5)",
+		"cardnumber": "184"
+	},
+	{
+		"A": "lángtenger (6)",
+		"B": "lánc: zászlójel",
+		"C": "sokkterápia (5)",
+		"D": "borkorcsolya (5)",
+		"E": "ócskapiac (3)",
+		"F": "vaskalapos (4)",
+		"cardnumber": "194"
+	},
+	{
+		"A": "királyvíz (6)",
+		"B": "álomkép (3)",
+		"C": "titoktartás (4)",
+		"D": "nádszál (4)",
+		"E": "pletykafészek (4)",
+		"F": "borravaló (3)",
+		"cardnumber": "204"
+	},
+	{
+		"A": "lánc: unokanővér",
+		"B": "társasjáték (6)",
+		"C": "öngyilkosság (4)",
+		"D": "házaspár (3)",
+		"E": "önsajnálat (5)",
+		"F": "nászéjszaka (5)",
+		"cardnumber": "145"
+	},
+	{
+		"A": "lapockacsont (3)",
+		"B": "templomrabló (6)",
+		"C": "gyengeelméjűség (4)",
+		"D": "keresztelőmedence (5)",
+		"E": "árubemutató (3)",
+		"F": "időjóslás (5)",
+		"cardnumber": "124"
+	},
+	{
+		"A": "születésnap (6)",
+		"B": "zongoraverseny (3)",
+		"C": "rím: kék",
+		"D": "kocsikísérő (5)",
+		"E": "stoplámpa (3)",
+		"F": "macskaszem (4)",
+		"cardnumber": "134"
+	},
+	{
+		"A": "őrangyal (6)",
+		"B": "osztálybasorolás (4)",
+		"C": "időjárás (3)",
+		"D": "ökölvívás (4)",
+		"E": "csodabogár (5)",
+		"F": "frottírtörülköző (5)",
+		"cardnumber": "144"
+	},
+	{
+		"A": "fakutya (4)",
+		"B": "középiskola (3)",
+		"C": "altatóorvos (5)",
+		"D": "étkezősarok (4)",
+		"E": "köpönyegforgató (6)",
+		"F": "szűklátókörűség (4)",
+		"cardnumber": "154"
+	},
+	{
+		"A": "rím: aszály",
+		"B": "őrségváltás (4)",
+		"C": "méregpohár (6)",
+		"D": "méregzsák (4)",
+		"E": "sejtmag (4)",
+		"F": "méregfog (3)",
+		"cardnumber": "164"
+	},
+	{
+		"A": "kisautó (4)",
+		"B": "lánc: kenyérzsák",
+		"C": "törzshajlítás (6)",
+		"D": "nyárspolgár (5)",
+		"E": "diadalmenet (4)",
+		"F": "késszúrás (5)",
+		"cardnumber": "183"
+	},
+	{
+		"A": "játékroller (4)",
+		"B": "padlásszoba (4)",
+		"C": "füldugó (3)",
+		"D": "barlanglakó (5)",
+		"E": "rendfokozat (3)",
+		"F": "hegedűgyanta (6)",
+		"cardnumber": "193"
+	},
+	{
+		"A": "óriásműlesiklás (3)",
+		"B": "fogalomzavar (4)",
+		"C": "verekedőkedv (5)",
+		"D": "hókristály (3)",
+		"E": "lánc: füttykoncert",
+		"F": "pártfogás (6)",
+		"cardnumber": "203"
+	},
+	{
+		"A": "rím: áldás",
+		"B": "izomsorvadás (3)",
+		"C": "vesemedence (6)",
+		"D": "víztükör (3)",
+		"E": "védőintézkedés (4)",
+		"F": "pihenőidő (5)",
+		"cardnumber": "213"
+	},
+	{
+		"A": "parasztszoknya (5)",
+		"B": "képmutatás (3)",
+		"C": "rím: nevelő",
+		"D": "körszakáll (3)",
+		"E": "jegygyűrű (4)",
+		"F": "bűzbomba (6)",
+		"cardnumber": "114"
+	},
+	{
+		"A": "borítólap (4)",
+		"B": "bankigazgató (3)",
+		"C": "autópálya (5)",
+		"D": "kulcskérdés (5)",
+		"E": "zöldfülű (6)",
+		"F": "gépkocsivezető (6)",
+		"cardnumber": "133"
+	},
+	{
+		"A": "nemdohányzó (5)",
+		"B": "éhenkórász (3)",
+		"C": "közelharc (5)",
+		"D": "keresztcsík (4)",
+		"E": "rím: csók",
+		"F": "püspökfalat (6)",
+		"cardnumber": "143"
+	},
+	{
+		"A": "tűzolzólétra (4)",
+		"B": "fajvédelem (6)",
+		"C": "levélpapír (3)",
+		"D": "fejléc (3)",
+		"E": "fogyasztóvédelem (4)",
+		"F": "sarokcsont (4)",
+		"cardnumber": "153"
+	},
+	{
+		"A": "írógép (6)",
+		"B": "alkatrész (3)",
+		"C": "lábizzadás (5)",
+		"D": "íróasztal (3)",
+		"E": "forrófejűség (4)",
+		"F": "jókedv (5)",
+		"cardnumber": "163"
+	},
+	{
+		"A": "ablakpárkány (3)",
+		"B": "önvád (4)",
+		"C": "lóherelevél (5)",
+		"D": "ablakdeszka (3)",
+		"E": "adásszünet (4)",
+		"F": "lázmérő (6)",
+		"cardnumber": "173"
+	},
+	{
+		"A": "csomagtartó (4)",
+		"B": "népviselet (3)",
+		"C": "méregital (5)",
+		"D": "méregkeverő (5)",
+		"E": "hulladékenergia (6)",
+		"F": "rím: bika",
+		"cardnumber": "192"
+	},
+	{
+		"A": "pipafej (3)",
+		"B": "szerzetesnő (3)",
+		"C": "gazdasszony (5)",
+		"D": "gőzmozdony (4)",
+		"E": "keresztgyermek (6)",
+		"F": "lóláb (3)",
+		"cardnumber": "202"
+	},
+	{
+		"A": "vulkánkitörés (4)",
+		"B": "gyámhatóság (6)",
+		"C": "fájdalomdíj (4)",
+		"D": "szamárlétra (5)",
+		"E": "pontlevonás (3)",
+		"F": "postafiók (5)",
+		"cardnumber": "212"
+	},
+	{
+		"A": "szélrózsa (3)",
+		"B": "jatékszabály (6)",
+		"C": "rajzszeg (4)",
+		"D": "esőköpeny (5)",
+		"E": "tükörírás (3)",
+		"F": "súlyemelés (4)",
+		"cardnumber": "113"
+	},
+	{
+		"A": "marhasó (6)",
+		"B": "tanítónő (3)",
+		"C": "papucshős (5)",
+		"D": "szőrmekabát (3)",
+		"E": "hadisarc (4)",
+		"F": "kötélugrás (3)",
+		"cardnumber": "123"
+	},
+	{
+		"A": "feketerigó (5)",
+		"B": "koncertterem (3)",
+		"C": "félrelépés (4)",
+		"D": "malomkerék (4)",
+		"E": "fenyőfa (6)",
+		"F": "alaptermészet (5)",
+		"cardnumber": "142"
+	},
+	{
+		"A": "rím: tojás",
+		"B": "biciklitúra (3)",
+		"C": "szempillantás (5)",
+		"D": "püspöksüveg (6)",
+		"E": "slágercikk (4)",
+		"F": "képernyő (3)",
+		"cardnumber": "152"
+	},
+	{
+		"A": "bombatámadás (4)",
+		"B": "óramutató (3)",
+		"C": "kardnyelő (4)",
+		"D": "földgáz (5)",
+		"E": "emésztőnedv (4)",
+		"F": "futballkapus (6)",
+		"cardnumber": "162"
+	},
+	{
+		"A": "mérlegserpenyő (4)",
+		"B": "távvezeték (6)",
+		"C": "madártoll (4)",
+		"D": "látásvizsgálat (5)",
+		"E": "lánc: fotelágy",
+		"F": "libabőr (5)",
+		"cardnumber": "172"
+	},
+	{
+		"A": "álomszuszék (4)",
+		"B": "segédmotor (6)",
+		"C": "álomkór (5)",
+		"D": "iránytű (3)",
+		"E": "anyósvicc (3)",
+		"F": "alvajáró (4)",
+		"cardnumber": "182"
+	},
+	{
+		"A": "csengőzsinór (3)",
+		"B": "főétel (4)",
+		"C": "rím: futás",
+		"D": "fejhallgató (3)",
+		"E": "emlősállat (4)",
+		"F": "ragasztószalag (6)",
+		"cardnumber": "201"
+	},
+	{
+		"A": "könnygázbomba (6)",
+		"B": "tényfeltárás (4)",
+		"C": "szoknyavadász (4)",
+		"D": "kötéltáncos (3)",
+		"E": "rakodórámpa (3)",
+		"F": "emésztőszerv (5)",
+		"cardnumber": "211"
+	},
+	{
+		"A": "mutatóujj (3)",
+		"B": "rohamsisak (4)",
+		"C": "üzemanyag (5)",
+		"D": "lánc: kényszermunka",
+		"E": "trónörökös (6)",
+		"F": "hősszerelmes (6)",
+		"cardnumber": "112"
+	},
+	{
+		"A": "mellékvágány (5)",
+		"B": "szobalevegő (3)",
+		"C": "aratóünnep (5)",
+		"D": "hamutartó (3)",
+		"E": "atombunker (3)",
+		"F": "balettest (6)",
+		"cardnumber": "122"
+	},
+	{
+		"A": "szerelmeslevél (5)",
+		"B": "évforduló (3)",
+		"C": "versenyszellem (5)",
+		"D": "autórádió (4)",
+		"E": "körtepálinka (4)",
+		"F": "pótjátékos (6)",
+		"cardnumber": "132"
+	},
+	{
+		"A": "erdőhatár (5)",
+		"B": "pártkönyv (6)",
+		"C": "körtefa (6)",
+		"D": "árvaház (5)",
+		"E": "várakozóhely (4)",
+		"F": "vágyálom (4)",
+		"cardnumber": "151"
+	},
+	{
+		"A": "téliszalámi (4)",
+		"B": "aranyrúd (3)",
+		"C": "búskomorság (5)",
+		"D": "sertésborda (3)",
+		"E": "verseskötet (3)",
+		"F": "tálalóasztal (6)",
+		"cardnumber": "161"
+	},
+	{
+		"A": "fűszerpaprika (3)",
+		"B": "javítóintézet (4)",
+		"C": "üvegpohár (4)",
+		"D": "szemgolyó (6)",
+		"E": "vályogház (3)",
+		"F": "sasorr (5)",
+		"cardnumber": "171"
+	},
+	{
+		"A": "ujjlenyomat (6)",
+		"B": "erőbedobás (3)",
+		"C": "tűznyelő (3)",
+		"D": "pokoltornác (5)",
+		"E": "merítőkanál (3)",
+		"F": "jószívűség (5)",
+		"cardnumber": "181"
+	},
+	{
+		"A": "konyhakés (3)",
+		"B": "kenyérszelet (3)",
+		"C": "kenyérkosár (4)",
+		"D": "válltömés (6)",
+		"E": "totálkár (3)",
+		"F": "terepfutás (5)",
+		"cardnumber": "191"
+	},
+	{
+		"A": "kesztyűtartó (3)",
+		"B": "homokóra (3)",
+		"C": "szénanátha (4)",
+		"D": "lábtenisz (3)",
+		"E": "ruhamoly (4)",
+		"F": "vetítővászon (6)",
+		"cardnumber": "111"
+	},
+	{
+		"A": "cigánykerék (5)",
+		"B": "örökrész (3)",
+		"C": "lánc: példakép",
+		"D": "országalma (5)",
+		"E": "sörfőzde (6)",
+		"F": "lábfürdő (4)",
+		"cardnumber": "121"
+	},
+	{
+		"A": "bolondgomba (3)",
+		"B": "díszegyenruha (6)",
+		"C": "tolltartó (4)",
+		"D": "szívkamra (4)",
+		"E": "lánc: oltógyomor",
+		"F": "menetjegy (5)",
+		"cardnumber": "131"
+	},
+	{
+		"A": "kötényszél (3)",
+		"B": "kondenzcsík (3)",
+		"C": "nézőpont (4)",
+		"D": "térdnadrág (6)",
+		"E": "iskolarendszer (3)",
+		"F": "napolaj (5)",
+		"cardnumber": "141"
+	},
+	{
+		"A": "szerencselovag (5)",
+		"B": "boszorkánykonyha (6)",
+		"C": "körfésű (3)",
+		"D": "hegymászó (3)",
+		"E": "lánc: töltőtoll",
+		"F": "cseresznyefa (4)",
+		"cardnumber": "8"
+	}
+
+]
