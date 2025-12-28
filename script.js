@@ -25,6 +25,7 @@ class ActivityGame {
         this.darkModeEnabled = false;
         this.currentLanguage = 'hu';
         this.matureCardsData = [];
+        this.wakeLock = null;
         
         this.translations = {
             hu: {
@@ -383,6 +384,9 @@ class ActivityGame {
         this.usedMatureWords.clear();
         this.roundNumber = 1;
         
+        // Request wake lock to keep screen on during game
+        this.requestWakeLock();
+        
         this.showScreen('game-screen');
         this.displayCurrentCard();
         this.updateGameDisplay();
@@ -608,6 +612,9 @@ class ActivityGame {
     endGame() {
         this.stopTimer(); // Stop timer when game ends
         
+        // Release wake lock when game ends
+        this.releaseWakeLock();
+        
         this.finalRoundsDisplay.textContent = this.roundNumber;
         this.finalCardsUsedDisplay.textContent = this.usedCards.size;
         this.finalPlayersDisplay.textContent = this.players.map(p => p.name).join(', ');
@@ -621,6 +628,9 @@ class ActivityGame {
         this.usedCards.clear();
         this.usedMatureWords.clear();
         this.roundNumber = 1;
+        
+        // Release wake lock when returning to setup
+        this.releaseWakeLock();
         
         this.updatePlayersList();
         this.updateStartButton();
@@ -762,6 +772,36 @@ class ActivityGame {
         const div = document.createElement('div');
         div.textContent = text;
         return div.innerHTML;
+    }
+
+    async requestWakeLock() {
+        try {
+            if ('wakeLock' in navigator) {
+                this.wakeLock = await navigator.wakeLock.request('screen');
+                console.log('Wake Lock aktív: a képernyő ébren marad');
+                
+                // Handle wake lock release (e.g., when tab becomes hidden)
+                this.wakeLock.addEventListener('release', () => {
+                    console.log('Wake Lock felszabadult');
+                });
+            } else {
+                console.log('Wake Lock API nem támogatott ebben a böngészőben');
+            }
+        } catch (err) {
+            console.error(`Wake Lock hiba: ${err.name}, ${err.message}`);
+        }
+    }
+
+    async releaseWakeLock() {
+        if (this.wakeLock !== null) {
+            try {
+                await this.wakeLock.release();
+                this.wakeLock = null;
+                console.log('Wake Lock manuálisan felszabadítva');
+            } catch (err) {
+                console.error(`Wake Lock felszabadítási hiba: ${err.message}`);
+            }
+        }
     }
 }
 
