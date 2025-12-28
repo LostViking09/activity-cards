@@ -559,13 +559,26 @@ class ActivityGame {
         // Stop and reset timer
         this.stopTimer();
         
-        // Get a new word without changing player or scoring
-        if (!this.currentCard) return;
+        // Check if we have a mature word (no card object)
+        if (!this.currentCard && this.currentWordData?.isMature) {
+            // Remove current mature word from used set
+            const currentWord = this.currentWordData.word;
+            // Find the original word string with points and remove it
+            for (const wordString of this.usedMatureWords) {
+                if (wordString.startsWith(currentWord)) {
+                    this.usedMatureWords.delete(wordString);
+                    break;
+                }
+            }
+        } else if (this.currentCard) {
+            // Normal card - remove from used cards
+            this.usedCards.delete(this.currentCard.cardnumber);
+        } else {
+            // No current word data, just return
+            return;
+        }
         
-        // Remove the current card from used cards so we can get a new one
-        this.usedCards.delete(this.currentCard.cardnumber);
-        
-        // Get a new card
+        // Get a new card/word
         this.displayCurrentCard();
         this.updateGameDisplay();
     }
