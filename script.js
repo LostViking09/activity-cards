@@ -23,42 +23,10 @@ class ActivityGame {
         this.matureContentProbability = 20;
         this.usedMatureWords = new Set();
         this.darkModeEnabled = false;
-        this.currentLanguage = 'en';
+        this.currentLanguage = 'hu';
         this.matureCardsData = [];
         
         this.translations = {
-            en: {
-                title: 'Activity Card Game',
-                settings: 'Settings',
-                language: 'Language:',
-                enableTimer: 'Enable Timer',
-                players: 'Players',
-                enterPlayerName: 'Enter player name',
-                addPlayer: 'Add Player',
-                startGame: 'Start Game',
-                round: 'Round',
-                cardsUsed: 'Cards Used',
-                scores: 'Scores',
-                seconds: 'seconds',
-                cardNumber: 'Card #',
-                category: 'Category',
-                showWord: 'Click to Show Word',
-                points: 'points',
-                passWord: 'Pass (Get New Word)',
-                solved: 'Solved',
-                failed: 'Failed',
-                gameOver: 'Game Over!',
-                totalRounds: 'Total rounds played',
-                totalCards: 'Total cards used',
-                playersLabel: 'Players',
-                newGame: 'New Game',
-                matureContent: 'Include Mature Content (18+)',
-                matureFrequency: 'Mature Content Frequency:',
-                darkMode: 'Dark Mode',
-                Draw: 'Draw',
-                Speak: 'Speak',
-                Show: 'Show'
-            },
             hu: {
                 title: 'Activity Kártyajáték',
                 settings: 'Beállítások',
@@ -164,12 +132,6 @@ class ActivityGame {
         this.newGameBtn.addEventListener('click', () => this.newGame());
         
         // Settings events
-        document.getElementById('language-select').addEventListener('change', (e) => {
-            this.currentLanguage = e.target.value;
-            this.updateLanguage();
-            this.saveSettings();
-        });
-        
         document.getElementById('timer-enabled').addEventListener('change', (e) => {
             this.timerEnabled = e.target.checked;
             this.updateTimerVisibility();
@@ -197,13 +159,7 @@ class ActivityGame {
     }
 
     loadSettings() {
-        const savedLanguage = localStorage.getItem('activityGame_language');
         const savedTimerEnabled = localStorage.getItem('activityGame_timerEnabled');
-        
-        if (savedLanguage) {
-            this.currentLanguage = savedLanguage;
-            document.getElementById('language-select').value = savedLanguage;
-        }
         
         if (savedTimerEnabled !== null) {
             this.timerEnabled = savedTimerEnabled === 'true';
