@@ -1,902 +1,123 @@
 [
-  {
-    "cardnumber": 901,
-    "A": "óvszer (2)",
-    "B": "fogamzásgátló (3)",
-    "C": "intim higiénia (4)",
-    "D": "szexuális felvilágosítás (5)",
-    "E": "nemi betegség (4)",
-    "F": "védett szex (3)"
-  },
-  {
-    "cardnumber": 902,
-    "A": "pénisz (2)",
-    "B": "férfi nemi szerv (3)",
-    "C": "merevedés (4)",
-    "D": "hímvessző (3)",
-    "E": "fallosz (5)",
-    "F": "férfiasság (4)"
-  },
-  {
-    "cardnumber": 903,
-    "A": "vagina (2)",
-    "B": "női nemi szerv (3)",
-    "C": "hüvely (3)",
-    "D": "klitorisz (4)",
-    "E": "női intim rész (4)",
-    "F": "nőiesség (3)"
-  },
-  {
-    "cardnumber": 904,
-    "A": "anális szex (4)",
-    "B": "hátsó bejárat (5)",
-    "C": "végbél szerelem (6)",
-    "D": "popsi játék (4)",
-    "E": "alternatív behatolás (6)",
-    "F": "tabu szeretkezés (7)"
-  },
-  {
-    "cardnumber": 905,
-    "A": "orális szex (3)",
-    "B": "szopás (2)",
-    "C": "nyalás (3)",
-    "D": "mélytorkos (5)",
-    "E": "francia szerelem (4)",
-    "F": "száj szeretkezés (4)"
-  },
-  {
-    "cardnumber": 906,
-    "A": "maszturbáció (3)",
-    "B": "önkielégítés (4)",
-    "C": "magányos élvezet (5)",
-    "D": "kézi munka (3)",
-    "E": "szóló játék (4)",
-    "F": "privát pillanat (5)"
-  },
-  {
-    "cardnumber": 907,
-    "A": "orgazmus (3)",
-    "B": "csúcspont (4)",
-    "C": "élvezet tetőfoka (6)",
-    "D": "klimax (4)",
-    "E": "extázis (5)",
-    "F": "mennyei érzés (6)"
-  },
-  {
-    "cardnumber": 908,
-    "A": "mellbimbó (2)",
-    "B": "érzékeny pont (4)",
-    "C": "mell csúcsa (4)",
-    "D": "izgató terület (5)",
-    "E": "erotikus zóna (5)",
-    "F": "gyengéd simogatás (6)"
-  },
-  {
-    "cardnumber": 909,
-    "A": "vibrátor (3)",
-    "B": "szexjáték (3)",
-    "C": "elektromos segítség (5)",
-    "D": "intim eszköz (4)",
-    "E": "mesterséges partner (6)",
-    "F": "modern kielégítés (6)"
-  },
-  {
-    "cardnumber": 910,
-    "A": "69-es pozíció (4)",
-    "B": "kölcsönös orális (6)",
-    "C": "egyszerre mindketten (7)",
-    "D": "fordított szeretkezés (6)",
-    "E": "szimmetrikus élvezet (7)",
-    "F": "páros kielégítés (6)"
-  },
-  {
-    "cardnumber": 911,
-    "A": "doggy style (3)",
-    "B": "kutyapóz (2)",
-    "C": "hátulról (3)",
-    "D": "négykézláb (4)",
-    "E": "állati pozíció (5)",
-    "F": "vadállat módra (5)"
-  },
-  {
-    "cardnumber": 912,
-    "A": "BDSM (4)",
-    "B": "kötözés (3)",
-    "C": "dominancia (5)",
-    "D": "szado-mazo (5)",
-    "E": "fájdalom és élvezet (7)",
-    "F": "hatalom játék (6)"
-  },
-  {
-    "cardnumber": 913,
-    "A": "spriccelés (3)",
-    "B": "női ejakuláció (5)",
-    "C": "nedves orgazmus (5)",
-    "D": "folyadék kibocsátás (6)",
-    "E": "intenzív csúcspont (6)",
-    "F": "természetes reakció (6)"
-  },
-  {
-    "cardnumber": 914,
-    "A": "segg (1)",
-    "B": "popó (1)",
-    "C": "fenék (2)",
-    "D": "hátsó (2)",
-    "E": "ülep (3)",
-    "F": "kerek formák (4)"
-  },
-  {
-    "cardnumber": 915,
-    "A": "mell (1)",
-    "B": "cici (1)",
-    "C": "kebel (2)",
-    "D": "női büszkeség (4)",
-    "E": "dekoltázs (3)",
-    "F": "anyai táplálék (5)"
-  },
-  {
-    "cardnumber": 916,
-    "A": "pornó (2)",
-    "B": "felnőtt film (3)",
-    "C": "erotikus tartalom (5)",
-    "D": "szexuális szórakozás (6)",
-    "E": "vizuális stimuláció (6)",
-    "F": "titkos gyűjtemény (5)"
-  },
-  {
-    "cardnumber": 917,
-    "A": "gangbang (5)",
-    "B": "csoportos szex (5)",
-    "C": "többen eggyel (6)",
-    "D": "tömegszeretkezés (6)",
-    "E": "kollektív élvezet (7)",
-    "F": "szexuális túlterhelés (8)"
-  },
-  {
-    "cardnumber": 918,
-    "A": "swinger (4)",
-    "B": "párcsere (4)",
-    "C": "nyitott kapcsolat (6)",
-    "D": "szexuális szabadság (7)",
-    "E": "modern párkapcsolat (7)",
-    "F": "tabu nélküli szerelem (8)"
-  },
-  {
-    "cardnumber": 919,
-    "A": "szűzesség (3)",
-    "B": "első alkalom (4)",
-    "C": "ártatlanság elvesztése (7)",
-    "D": "beavatás (4)",
-    "E": "tisztaság vége (5)",
-    "F": "felnőtté válás (6)"
-  },
-  {
-    "cardnumber": 920,
-    "A": "erekció (3)",
-    "B": "felállás (2)",
-    "C": "merevedés (3)",
-    "D": "férfi készenlét (5)",
-    "E": "vérkeringési csoda (6)",
-    "F": "természetes reakció (5)"
-  },
-  {
-    "cardnumber": 921,
-    "A": "lubrikánt (3)",
-    "B": "síkosító (3)",
-    "C": "nedvesítő (4)",
-    "D": "csúszós segítség (5)",
-    "E": "kényelmes behatolás (6)",
-    "F": "fájdalommentes (6)"
-  },
-  {
-    "cardnumber": 922,
-    "A": "fetish (4)",
-    "B": "különleges vágy (5)",
-    "C": "szokatlan izgalom (6)",
-    "D": "titkos fantázia (5)",
-    "E": "egyedi preferencia (6)",
-    "F": "pszichológiai stimuláció (8)"
-  },
-  {
-    "cardnumber": 923,
-    "A": "strip (2)",
-    "B": "vetkőzés (3)",
-    "C": "szexi tánc (4)",
-    "D": "erotikus show (5)",
-    "E": "csábítás művészete (6)",
-    "F": "vizuális előjáték (6)"
-  },
-  {
-    "cardnumber": 924,
-    "A": "cumshot (3)",
-    "B": "férfi orgazmus (4)",
-    "C": "ejakuláció (4)",
-    "D": "magömlés (3)",
-    "E": "csúcspont látványa (6)",
-    "F": "természetes befejezés (6)"
-  },
-  {
-    "cardnumber": 925,
-    "A": "rimming (5)",
-    "B": "végbél nyalás (6)",
-    "C": "anális orális (6)",
-    "D": "intim tisztelet (6)",
-    "E": "tabu cselekmény (6)",
-    "F": "szélsőséges gyengédség (8)"
-  },
-  {
-    "cardnumber": 926,
-    "A": "dildó (2)",
-    "B": "műpénisz (3)",
-    "C": "szilikon barát (4)",
-    "D": "mesterséges szerető (5)",
-    "E": "szexuális eszköz (4)",
-    "F": "intim játékszer (4)"
-  },
-  {
-    "cardnumber": 927,
-    "A": "meleg (2)",
-    "B": "homoszexuális (4)",
-    "C": "férfi-férfi (3)",
-    "D": "azonos nemű (4)",
-    "E": "szivárvány büszkeség (6)",
-    "F": "LGBTQ (4)"
-  },
-  {
-    "cardnumber": 928,
-    "A": "leszbikus (3)",
-    "B": "női szerelem (4)",
-    "C": "nő-nő kapcsolat (5)",
-    "D": "szafikus vágy (6)",
-    "E": "női homoszexualitás (7)",
-    "F": "leszbikus szenvedély (6)"
-  },
-  {
-    "cardnumber": 929,
-    "A": "kurva (2)",
-    "B": "prostituált (3)",
-    "C": "szexmunkás (4)",
-    "D": "fizetett szerelem (5)",
-    "E": "éjszakai hölgy (5)",
-    "F": "pénzért szeretkezés (6)"
-  },
-  {
-    "cardnumber": 930,
-    "A": "punci (1)",
-    "B": "női szerv (3)",
-    "C": "intim rész (3)",
-    "D": "női büszkeség (4)",
-    "E": "érzékeny terület (5)",
-    "F": "női titok (4)"
-  },
-  {
-    "cardnumber": 931,
-    "A": "fasz (1)",
-    "B": "férfi szerv (3)",
-    "C": "merevedő rész (4)",
-    "D": "férfi büszkeség (4)",
-    "E": "penetráló eszköz (5)",
-    "F": "férfi fegyver (4)"
-  },
-  {
-    "cardnumber": 932,
-    "A": "szex (1)",
-    "B": "szeretkezés (2)",
-    "C": "intim együttlét (4)",
-    "D": "testi szerelem (4)",
-    "E": "fizikai kapcsolat (5)",
-    "F": "emberi természet (5)"
-  },
-  {
-    "cardnumber": 933,
-    "A": "kúrás (2)",
-    "B": "dugás (2)",
-    "C": "penetráció (4)",
-    "D": "behatolás (3)",
-    "E": "testi egyesülés (5)",
-    "F": "szeretkezési aktus (6)"
-  },
-  {
-    "cardnumber": 934,
-    "A": "gecilövés (3)",
-    "B": "spermakibocsátás (5)",
-    "C": "férfi csúcspont (5)",
-    "D": "magömlés pillanata (6)",
-    "E": "reprodukciós folyadék (7)",
-    "F": "természetes lezárás (6)"
-  },
-  {
-    "cardnumber": 935,
-    "A": "kondóm (2)",
-    "B": "gumi (2)",
-    "C": "védőeszköz (3)",
-    "D": "biztonságos szex (5)",
-    "E": "fogamzásgátlás (5)",
-    "F": "felelős szeretkezés (6)"
-  },
-  {
-    "cardnumber": 936,
-    "A": "69 (2)",
-    "B": "hatvankilenc (4)",
-    "C": "kölcsönös orális (6)",
-    "D": "szimmetrikus élvezet (7)",
-    "E": "páros kielégítés (6)",
-    "F": "egyszerre mindketten (7)"
-  },
-  {
-    "cardnumber": 937,
-    "A": "anál (2)",
-    "B": "hátsó (2)",
-    "C": "végbél szeretkezés (6)",
-    "D": "alternatív behatolás (6)",
-    "E": "tabu terület (5)",
-    "F": "másik bejárat (5)"
-  },
-  {
-    "cardnumber": 938,
-    "A": "csöcs (1)",
-    "B": "női mell (2)",
-    "C": "anyai táplálék (5)",
-    "D": "férfi gyengeség (4)",
-    "E": "női vonzerő (4)",
-    "F": "szoptatás eszköze (5)"
-  },
-  {
-    "cardnumber": 939,
-    "A": "dugó (2)",
-    "B": "anális játék (4)",
-    "C": "hátsó stimuláció (6)",
-    "D": "végbél kielégítő (6)",
-    "E": "alternatív eszköz (5)",
-    "F": "tabu játékszer (6)"
-  },
-  {
-    "cardnumber": 940,
-    "A": "creampie (4)",
-    "B": "belsőbe (3)",
-    "C": "védtelen befejezés (6)",
-    "D": "természetes lezárás (6)",
-    "E": "kockázatos élvezet (6)",
-    "F": "intim ajándék (5)"
-  },
-  {
-    "cardnumber": 941,
-    "A": "deepthroat (5)",
-    "B": "mélytorkos (5)",
-    "C": "teljes behatolás (6)",
-    "D": "szélsőséges orális (7)",
-    "E": "torok stimuláció (6)",
-    "F": "extrém technika (7)"
-  },
-  {
-    "cardnumber": 942,
-    "A": "squirting (4)",
-    "B": "női spriccelés (5)",
-    "C": "intenzív orgazmus (6)",
-    "D": "folyadék kibocsátás (7)",
-    "E": "természetes reakció (6)",
-    "F": "nedves csúcspont (6)"
-  },
-  {
-    "cardnumber": 943,
-    "A": "MILF (3)",
-    "B": "érett nő (3)",
-    "C": "tapasztalt hölgy (5)",
-    "D": "anyuka fantázia (5)",
-    "E": "érett szépség (4)",
-    "F": "tapasztalt szerető (6)"
-  },
-  {
-    "cardnumber": 944,
-    "A": "latex (3)",
-    "B": "gumi ruha (4)",
-    "C": "fetish anyag (5)",
-    "D": "második bőr (5)",
-    "E": "erotikus öltözék (6)",
-    "F": "különleges fantázia (6)"
-  },
-  {
-    "cardnumber": 945,
-    "A": "orgia (4)",
-    "B": "csoportos szex (5)",
-    "C": "kollektív élvezet (6)",
-    "D": "tömegszeretkezés (6)",
-    "E": "szexuális káosz (6)",
-    "F": "minden mindenkivel (7)"
-  },
-  {
-    "cardnumber": 946,
-    "A": "exhibicionizmus (6)",
-    "B": "mutogatás (3)",
-    "C": "nyilvános meztelenség (7)",
-    "D": "figyelemfelkeltés (5)",
-    "E": "szexuális exhibíció (7)",
-    "F": "tabu viselkedés (6)"
-  },
-  {
-    "cardnumber": 947,
-    "A": "voyeurizmus (5)",
-    "B": "leskelődés (3)",
-    "C": "titkos megfigyelés (6)",
-    "D": "szexuális kémkedés (6)",
-    "E": "rejtett vágyak (5)",
-    "F": "tiltott tekintetek (6)"
-  },
-  {
-    "cardnumber": 948,
-    "A": "dominatrix (5)",
-    "B": "úrnő (3)",
-    "C": "domináns nő (5)",
-    "D": "hatalom gyakorlója (6)",
-    "E": "szexuális vezető (6)",
-    "F": "engedelmesség (6)"
-  },
-  {
-    "cardnumber": 949,
-    "A": "szubmisszív (5)",
-    "B": "engedelmesség (4)",
-    "C": "alávetettség (5)",
-    "D": "szexuális szolgaság (7)",
-    "E": "hatalom átadása (6)",
-    "F": "önkéntes alárendeltség (8)"
-  },
-  {
-    "cardnumber": 950,
-    "A": "korbács (3)",
-    "B": "ostor (3)",
-    "C": "fájdalom eszköze (5)",
-    "D": "BDSM kellék (5)",
-    "E": "dominancia szimbóluma (7)",
-    "F": "szado-mazo játékszer (7)"
-  },
-  {
-    "cardnumber": 951,
-    "A": "bilincs (3)",
-    "B": "kötözés (3)",
-    "C": "mozgáskorlátozás (6)",
-    "D": "hatalom eszköze (5)",
-    "E": "szexuális rabság (6)",
-    "F": "engedelmesség szimbóluma (8)"
-  },
-  {
-    "cardnumber": 952,
-    "A": "szájkosár (4)",
-    "B": "némaság (3)",
-    "C": "beszédkorlátozás (6)",
-    "D": "BDSM eszköz (5)",
-    "E": "totális kontroll (6)",
-    "F": "szexuális elhallgattatás (8)"
-  },
-  {
-    "cardnumber": 953,
-    "A": "maszk (2)",
-    "B": "álarc (3)",
-    "C": "rejtett identitás (5)",
-    "D": "névtelen szeretkezés (6)",
-    "E": "fantázia kellék (5)",
-    "F": "szerepjáték eszköze (6)"
-  },
-  {
-    "cardnumber": 954,
-    "A": "roleplay (4)",
-    "B": "szerepjáték (4)",
-    "C": "fantázia megélése (6)",
-    "D": "karakter alakítás (6)",
-    "E": "szexuális színjátszás (7)",
-    "F": "erotikus improvizáció (7)"
-  },
-  {
-    "cardnumber": 955,
-    "A": "cosplay (3)",
-    "B": "jelmez (2)",
-    "C": "karakter öltözék (5)",
-    "D": "fantázia ruha (5)",
-    "E": "erotikus jelmez (5)",
-    "F": "szexuális transzformáció (8)"
-  },
-  {
-    "cardnumber": 956,
-    "A": "sztriptíz (3)",
-    "B": "vetkőzés (3)",
-    "C": "erotikus tánc (5)",
-    "D": "csábítás művészete (6)",
-    "E": "szexuális előadás (6)",
-    "F": "vizuális izgalom (5)"
-  },
-  {
-    "cardnumber": 957,
-    "A": "lapdance (4)",
-    "B": "öltánc (3)",
-    "C": "intim tánc (4)",
-    "D": "személyes show (5)",
-    "E": "erotikus közelség (6)",
-    "F": "fizikai csábítás (6)"
-  },
-  {
-    "cardnumber": 958,
-    "A": "webcam (3)",
-    "B": "online szex (4)",
-    "C": "virtuális intimitás (6)",
-    "D": "digitális szeretkezés (6)",
-    "E": "távoli kapcsolat (5)",
-    "F": "modern erotika (5)"
-  },
-  {
-    "cardnumber": 959,
-    "A": "sexting (3)",
-    "B": "erotikus üzenetek (5)",
-    "C": "szexuális chat (5)",
-    "D": "digitális flört (5)",
-    "E": "virtuális csábítás (6)",
-    "F": "modern szeretkezés (6)"
-  },
-  {
-    "cardnumber": 960,
-    "A": "nudes (3)",
-    "B": "meztelen képek (5)",
-    "C": "intim fotók (4)",
-    "D": "szexuális selfie (5)",
-    "E": "digitális meztelenség (6)",
-    "F": "virtuális exhibíció (6)"
-  },
-  {
-    "cardnumber": 961,
-    "A": "camgirl (4)",
-    "B": "webkamerás lány (6)",
-    "C": "online performer (6)",
-    "D": "virtuális szórakoztatás (7)",
-    "E": "digitális szexmunka (7)",
-    "F": "internetes erotika (6)"
-  },
-  {
-    "cardnumber": 962,
-    "A": "sugardaddy (4)",
-    "B": "gazdag pártfogó (5)",
-    "C": "anyagi támogató (6)",
-    "D": "pénzes szerető (5)",
-    "E": "luxus kapcsolat (6)",
-    "F": "anyagi függőség (6)"
-  },
-  {
-    "cardnumber": 963,
-    "A": "sugarbaby (4)",
-    "B": "támogatott lány (5)",
-    "C": "anyagi függő (5)",
-    "D": "luxus élvező (5)",
-    "E": "pénzért szerelem (6)",
-    "F": "modern kurtizán (6)"
-  },
-  {
-    "cardnumber": 964,
-    "A": "escort (3)",
-    "B": "kísérő hölgy (4)",
-    "C": "elit prostituált (6)",
-    "D": "magas szintű szexmunka (8)",
-    "E": "luxus szórakoztatás (7)",
-    "F": "diszkrét szolgáltatás (7)"
-  },
-  {
-    "cardnumber": 965,
-    "A": "bordély (3)",
-    "B": "örömlány ház (5)",
-    "C": "szexuális szolgáltatás (7)",
-    "D": "prostitúció központja (7)",
-    "E": "férfi szórakozóhely (6)",
-    "F": "tiltott élvezetek háza (8)"
-  },
-  {
-    "cardnumber": 966,
-    "A": "szexshop (3)",
-    "B": "erotikus bolt (4)",
-    "C": "felnőtt áruház (5)",
-    "D": "intim kellékek (5)",
-    "E": "szexuális segédeszközök (7)",
-    "F": "tabu vásárlás (5)"
-  },
-  {
-    "cardnumber": 967,
-    "A": "pornósztár (4)",
-    "B": "szexfilm színész (6)",
-    "C": "erotikus performer (6)",
-    "D": "felnőtt ipar sztárja (7)",
-    "E": "szexuális híresség (6)",
-    "F": "professzionális szerető (7)"
-  },
-  {
-    "cardnumber": 968,
-    "A": "előjáték (3)",
-    "B": "bemelegítés (3)",
-    "C": "szexuális felkészülés (6)",
-    "D": "intim simogatás (5)",
-    "E": "szeretkezés kezdete (6)",
-    "F": "érzéki előkészítés (6)"
-  },
-  {
-    "cardnumber": 969,
-    "A": "afterplay (4)",
-    "B": "utójáték (3)",
-    "C": "szeretkezés utáni (6)",
-    "D": "intim lezárás (5)",
-    "E": "gyengéd befejezés (6)",
-    "F": "szerelem epilógusa (6)"
-  },
-  {
-    "cardnumber": 970,
-    "A": "quickie (3)",
-    "B": "gyors szex (3)",
-    "C": "villámszeretkezés (5)",
-    "D": "röpke élvezet (4)",
-    "E": "spontán intimitás (6)",
-    "F": "sietős kielégítés (5)"
-  },
-  {
-    "cardnumber": 971,
-    "A": "marathon (4)",
-    "B": "hosszú szex (4)",
-    "C": "kitartó szeretkezés (6)",
-    "D": "végtelen élvezet (6)",
-    "E": "szexuális állóképesség (7)",
-    "F": "órákig tartó intimitás (8)"
-  },
-  {
-    "cardnumber": 972,
-    "A": "tantric (4)",
-    "B": "tantrikus szex (5)",
-    "C": "spirituális szeretkezés (8)",
-    "D": "lassú intimitás (6)",
-    "E": "tudatos szeretkezés (7)",
-    "F": "keleti szerelem (6)"
-  },
-  {
-    "cardnumber": 973,
-    "A": "kamasutra (4)",
-    "B": "szeretkezési pozíciók (7)",
-    "C": "indiai szerelem (5)",
-    "D": "erotikus kézikönyv (6)",
-    "E": "szexuális művészet (6)",
-    "F": "ősi bölcsesség (6)"
-  },
-  {
-    "cardnumber": 974,
-    "A": "G-pont (3)",
-    "B": "érzékeny terület (5)",
-    "C": "női erogén zóna (6)",
-    "D": "rejtett élvezet (5)",
-    "E": "anatómiai titok (6)",
-    "F": "intenzív stimuláció (7)"
-  },
-  {
-    "cardnumber": 975,
-    "A": "P-pont (4)",
-    "B": "férfi G-pont (5)",
-    "C": "prosztata stimuláció (7)",
-    "D": "anális élvezet (6)",
-    "E": "rejtett férfi titok (7)",
-    "F": "belső erogén zóna (7)"
-  },
-  {
-    "cardnumber": 976,
-    "A": "erogén zóna (4)",
-    "B": "érzékeny terület (5)",
-    "C": "izgató pont (4)",
-    "D": "szexuális térkép (5)",
-    "E": "testi gyengeség (5)",
-    "F": "anatómiai varázslat (6)"
-  },
-  {
-    "cardnumber": 977,
-    "A": "afrodiziákum (5)",
-    "B": "szerelmi ital (4)",
-    "C": "vágyfokozó (4)",
-    "D": "szexuális stimuláns (6)",
-    "E": "libidó növelő (5)",
-    "F": "természetes viagra (6)"
-  },
-  {
-    "cardnumber": 978,
-    "A": "viagra (3)",
-    "B": "potencianövelő (5)",
-    "C": "merevedési segítség (6)",
-    "D": "férfi támogatás (5)",
-    "E": "kék tabletta (4)",
-    "F": "modern csoda (5)"
-  },
-  {
-    "cardnumber": 979,
-    "A": "libidó (3)",
-    "B": "szexuális vágy (4)",
-    "C": "nemi ösztön (4)",
-    "D": "erotikus energia (5)",
-    "E": "természetes késztetés (6)",
-    "F": "biológiai program (6)"
-  },
-  {
-    "cardnumber": 980,
-    "A": "impotencia (4)",
-    "B": "merevedési zavar (6)",
-    "C": "férfi gyengeség (5)",
-    "D": "szexuális kudarc (6)",
-    "E": "potencia probléma (6)",
-    "F": "férfi rémálom (5)"
-  },
-  {
-    "cardnumber": 981,
-    "A": "frigidség (4)",
-    "B": "szexuális hidegség (6)",
-    "C": "vágy hiánya (5)",
-    "D": "női probléma (4)",
-    "E": "intimitás elutasítása (7)",
-    "F": "érzelmi zártság (6)"
-  },
-  {
-    "cardnumber": 982,
-    "A": "ninfománia (5)",
-    "B": "szexfüggőség (4)",
-    "C": "túlzott vágy (5)",
-    "D": "kielégíthetetlen éhség (7)",
-    "E": "szexuális mániákusság (8)",
-    "F": "végtelen szomjúság (7)"
-  },
-  {
-    "cardnumber": 983,
-    "A": "szatíriázis (6)",
-    "B": "férfi szexfüggőség (6)",
-    "C": "túlzott férfi vágy (7)",
-    "D": "kielégíthetetlen férfi (7)",
-    "E": "szexuális mániákus (7)",
-    "F": "végtelen férfi éhség (8)"
-  },
-  {
-    "cardnumber": 984,
-    "A": "celibátus (4)",
-    "B": "szexuális tartózkodás (7)",
-    "C": "önkéntes nemi élet (6)",
-    "D": "szűziesség fogadalma (7)",
-    "E": "testi lemondás (6)",
-    "F": "spirituális tisztaság (7)"
-  },
-  {
-    "cardnumber": 985,
-    "A": "absztinencia (5)",
-    "B": "szexuális böjt (5)",
-    "C": "önmegtartóztatás (6)",
-    "D": "vágy elfojtása (5)",
-    "E": "testi fegyelem (6)",
-    "F": "szexuális diéta (6)"
-  },
-  {
-    "cardnumber": 986,
-    "A": "szexterápia (5)",
-    "B": "intim tanácsadás (6)",
-    "C": "párkapcsolati segítség (7)",
-    "D": "szexuális gyógyítás (7)",
-    "E": "intimitás javítása (7)",
-    "F": "szerelmi rehabilitáció (8)"
-  },
-  {
-    "cardnumber": 987,
-    "A": "szexológus (4)",
-    "B": "intim szakértő (5)",
-    "C": "szexuális tanácsadó (7)",
-    "D": "szerelem doktora (6)",
-    "E": "intimitás specialistája (8)",
-    "F": "párkapcsolati guru (7)"
-  },
-  {
-    "cardnumber": 988,
-    "A": "transznemű (4)",
-    "B": "nemváltó (4)",
-    "C": "gender identitás (6)",
-    "D": "biológiai nem (5)",
-    "E": "hormonterápia (6)",
-    "F": "nemátalakítás (6)"
-  },
-  {
-    "cardnumber": 989,
-    "A": "biszexuális (4)",
-    "B": "mindkét nem (4)",
-    "C": "kettős vonzalom (5)",
-    "D": "szexuális nyitottság (6)",
-    "E": "gender fluiditás (6)",
-    "F": "szerelmi szabadság (6)"
-  },
-  {
-    "cardnumber": 990,
-    "A": "pánszexuális (5)",
-    "B": "minden iránt nyitott (6)",
-    "C": "nem számít (4)",
-    "D": "szexuális spektrum (6)",
-    "E": "szerelem határok nélkül (7)",
-    "F": "identitás feletti (6)"
-  },
-  {
-    "cardnumber": 991,
-    "A": "aszexuális (4)",
-    "B": "szexuális érdektelenség (7)",
-    "C": "vágy hiánya (5)",
-    "D": "romantikus kapcsolat (6)",
-    "E": "fizikai vonzalom nélkül (7)",
-    "F": "szerelem szex nélkül (6)"
-  },
-  {
-    "cardnumber": 992,
-    "A": "poliamorózus (5)",
-    "B": "többes szerelem (5)",
-    "C": "nyitott kapcsolat (6)",
-    "D": "több partner (4)",
-    "E": "szerelmi szabadság (6)",
-    "F": "hagyományos kapcsolat (6)"
-  },
-  {
-    "cardnumber": 993,
-    "A": "cuckold (5)",
-    "B": "felszarvazott (4)",
-    "C": "partner megosztása (6)",
-    "D": "szexuális megalázás (7)",
-    "E": "voyeur fantázia (6)",
-    "F": "hűtlenség élvezete (7)"
-  },
-  {
-    "cardnumber": 994,
-    "A": "hotwife (4)",
-    "B": "megosztott feleség (6)",
-    "C": "nyitott házasság (6)",
-    "D": "szexuális szabadság (7)",
-    "E": "partner engedélye (6)",
-    "F": "modern kapcsolat (6)"
-  },
-  {
-    "cardnumber": 995,
-    "A": "threesome (4)",
-    "B": "hármasban (3)",
-    "C": "három ember (4)",
-    "D": "csoportos élvezet (6)",
-    "E": "kettő plusz egy (5)",
-    "F": "szexuális kaland (6)"
-  },
-  {
-    "cardnumber": 996,
-    "A": "foursome (5)",
-    "B": "négyesben (4)",
-    "C": "négy ember (4)",
-    "D": "párcsere alapja (6)",
-    "E": "dupla páros (5)",
-    "F": "csoportos szórakozás (7)"
-  },
-  {
-    "cardnumber": 997,
-    "A": "bukkake (6)",
-    "B": "csoportos ejakuláció (7)",
-    "C": "japán szexuális aktus (8)",
-    "D": "többen egyre (6)",
-    "E": "szélsőséges cselekedet (8)",
-    "F": "pornó kategória (6)"
-  },
-  {
-    "cardnumber": 998,
-    "A": "fisting (6)",
-    "B": "kéz behatolása (6)",
-    "C": "szélsőséges penetráció (8)",
-    "D": "intim közelség (5)",
-    "E": "bizalmi gyakorlat (7)",
-    "F": "anatómiai határok (7)"
-  },
-  {
-    "cardnumber": 999,
-    "A": "pegging (5)",
-    "B": "női dominancia (5)",
-    "C": "szerepcsere (5)",
-    "D": "műpénisz használata (6)",
-    "E": "férfi penetrálása (6)",
-    "F": "gender játék (6)"
-  },
-  {
-    "cardnumber": 1000,
-    "A": "szexuális forradalom (7)",
-    "B": "intim felszabadulás (7)",
-    "C": "erotikus reneszánsz (7)",
-    "D": "szerelmi szabadság (6)",
-    "E": "modern szexualitás (7)",
-    "F": "tabu nélküli társadalom (9)"
-  }
+    "orgazmus (3)",
+    "Lovaglópóz (4)",
+    "Tangabugyi (2)",
+    "Ex-barátnő (5)",
+    "behatolás (3)",
+    "impotencia (4)",
+    "fogamzásgátló (3)",
+    "meztelen képek (3)",
+    "kötözés (3)",
+    "Féltékenység (4)",
+    "Előjáték (4)",
+    "prostituált (3)",
+    "kötözés (3)",
+    "Urológus (5)",
+    "Szerető (4)",
+    "Nimfomániás (6)",
+    "Szexshop (3)",
+    "sugar daddy (6)",
+    "szerepcsere (5)",
+    "dekoltázs (3)",
+    "Sztriptíztáncos (3)",
+    "Kutyapóz (4)",
+    "Nudista strand (3)",
+    "Seggrepacsi (3)",
+    "Szűziesség (6)",
+    "Egyéjszakás kaland (5)",
+    "Bilincs (2)",
+    "Óvszer (2)",
+    "Misszionárius póz (5)",
+    "Chippendale fiú (4)",
+    "Mellbimbó csavarás (6)",
+    "Péniszpumpa (5)",
+    "nemi betegség (4)",
+    "BDSM (4)",
+    "homoszexuális (4)",
+    "Szextelefonálás (5)",
+    "Szájpecek (6)",
+    "Latex ruha (5)",
+    "Szűzlány (5)",
+    "szexuális felvilágosítás (5)",
+    "Nedvesedés (7)",
+    "Örömlány (3)",
+    "Masszázsolaj (3)",
+    "Szexhinta (6)",
+    "Sztriptíz (2)",
+    "Zuhanyozás (2)",
+    "kamerás szex (5)",
+    "előjáték (3)",
+    "bilincs (3)",
+    "Fétis (6)",
+    "Gésagolyó (5)",
+    "ostor (3)",
+    "szexshop (3)",
+    "óvszer (2)",
+    "spriccelés (4)",
+    "Öltánc (3)",
+    "szubmisszív (5)",
+    "Kikötözés (4)",
+    "Vibrátor (3)",
+    "vetkőzés (3)",
+    "mell (1)",
+    "Kukkoló (4)",
+    "Hátmasszázs (2)",
+    "Lovaglópálca (5)",
+    "vágyfokozó (4)",
+    "orgia (4)",
+    "erogén zóna (6)",
+    "Franciaágy (2)",
+    "anális játék (4)",
+    "Petting (4)",
+    "párcsere (4)",
+    "maszk (2)",
+    "Barátság extrákkal (6)",
+    "síkosító (3)",
+    "Hűtlenség (5)",
+    "mellbimbó (2)",
+    "szexfüggőség (5)",
+    "szűziesség fogadalma (7)",
+    "Merevedés (4)",
+    "leszbikus (3)",
+    "Ehető fehérnemű (6)",
+    "Bordélyház (4)",
+    "fenék (1)",
+    "Levetkőztetés (3)",
+    "Nászút (3)",
+    "Orális kényeztetés (5)",
+    "BDSM (5)",
+    "pornó (2)",
+    "szerepjáték (4)",
+    "Orgazmus (5)",
+    "biszexuális (4)",
+    "transznemű (4)",
+    "Cukros bácsi (5)",
+    "Masszőr (3)",
+    "Harisnyatartó (4)",
+    "Önkielégítés (3)",
+    "szűzesség (3)",
+    "Szemfedő (3)",
+    "Guminő (3)",
+    "Rúdtánc (3)",
+    "bordély (3)",
+    "Erotikus fotózás (4)",
+    "magömlés (3)",
+    "merevedés (3)",
+    "Csoportszex (5)",
+    "mélytorkos (5)",
+    "Melltartó (2)",
+    "G-pont (7)",
+    "Rúdtánc rúd (3)",
+    "Nőgyógyász (4)",
+    "dominancia (5)",
+    "Vágy (6)",
+    "vetkőzés (3)",
+    "öltánc (3)",
+    "69-es póz (3)",
+    "gumióvszer (4)",
+    "Combfix (3)",
+    "csoportos szex (5)",
+    "Bombázó (3)",
+    "Szexvideó (3)",
+    "Ostor (3)"
 ]

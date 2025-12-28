@@ -20,6 +20,8 @@ class ActivityGame {
         this.timerRunning = false;
         this.timerEnabled = true;
         this.matureContentEnabled = false;
+        this.matureContentProbability = 20;
+        this.usedMatureWords = new Set();
         this.darkModeEnabled = false;
         this.currentLanguage = 'en';
         this.matureCardsData = [];
@@ -51,6 +53,7 @@ class ActivityGame {
                 playersLabel: 'Players',
                 newGame: 'New Game',
                 matureContent: 'Include Mature Content (18+)',
+                matureFrequency: 'Mature Content Frequency:',
                 darkMode: 'Dark Mode',
                 Draw: 'Draw',
                 Speak: 'Speak',
@@ -82,6 +85,7 @@ class ActivityGame {
                 playersLabel: 'Játékosok',
                 newGame: 'Új játék',
                 matureContent: 'Felnőtt tartalom (18+)',
+                matureFrequency: 'Felnőtt szavak gyakorisága:',
                 darkMode: 'Sötét mód',
                 Draw: 'Rajzolás',
                 Speak: 'Körülírás',
@@ -174,7 +178,14 @@ class ActivityGame {
         
         document.getElementById('mature-content').addEventListener('change', (e) => {
             this.matureContentEnabled = e.target.checked;
+            this.updateMatureFrequencyVisibility();
             this.loadMatureCards();
+            this.saveSettings();
+        });
+        
+        document.getElementById('mature-frequency').addEventListener('input', (e) => {
+            this.matureContentProbability = parseInt(e.target.value);
+            document.getElementById('mature-frequency-value').textContent = `${e.target.value}%`;
             this.saveSettings();
         });
         
@@ -208,6 +219,15 @@ class ActivityGame {
             }
         }
         
+        const savedMatureFrequency = localStorage.getItem('activityGame_matureFrequency');
+        if (savedMatureFrequency !== null) {
+            this.matureContentProbability = parseInt(savedMatureFrequency);
+            document.getElementById('mature-frequency').value = savedMatureFrequency;
+            document.getElementById('mature-frequency-value').textContent = `${savedMatureFrequency}%`;
+        }
+        
+        this.updateMatureFrequencyVisibility();
+        
         const savedDarkMode = localStorage.getItem('activityGame_darkMode');
         if (savedDarkMode !== null) {
             this.darkModeEnabled = savedDarkMode === 'true';
@@ -220,7 +240,15 @@ class ActivityGame {
         localStorage.setItem('activityGame_language', this.currentLanguage);
         localStorage.setItem('activityGame_timerEnabled', this.timerEnabled.toString());
         localStorage.setItem('activityGame_matureContent', this.matureContentEnabled.toString());
+        localStorage.setItem('activityGame_matureFrequency', this.matureContentProbability.toString());
         localStorage.setItem('activityGame_darkMode', this.darkModeEnabled.toString());
+    }
+
+    updateMatureFrequencyVisibility() {
+        const frequencyContainer = document.getElementById('mature-frequency-container');
+        if (frequencyContainer) {
+            frequencyContainer.style.display = this.matureContentEnabled ? 'block' : 'none';
+        }
     }
 
     async loadMatureCards() {
@@ -228,27 +256,60 @@ class ActivityGame {
             try {
                 const response = await fetch('mature_cards.json');
                 this.matureCardsData = await response.json();
-                console.log(`Loaded ${this.matureCardsData.length} mature cards`);
-                this.updateCardPool();
+                console.log(`Loaded ${this.matureCardsData.length} mature words`);
             } catch (error) {
                 console.error('Error loading mature cards:', error);
                 this.showError('Failed to load mature content. Please check if the file exists.');
             }
         } else {
             this.matureCardsData = [];
-            this.updateCardPool();
         }
     }
 
-    updateCardPool() {
-        // Combine original cards with mature cards if enabled
-        if (this.matureContentEnabled && this.matureCardsData.length > 0) {
-            this.cardsData = [...this.cardsData.filter(card => card.cardnumber < 900), ...this.matureCardsData];
-        } else {
-            // Filter out mature cards (900+) if disabled
-            this.cardsData = this.cardsData.filter(card => card.cardnumber < 900);
+    shouldUseMatureWord() {
+        // Decide if we should use a mature word based on probability
+        if (!this.matureContentEnabled || this.matureCardsData.length === 0) {
+            return false;
         }
-        console.log(`Total cards available: ${this.cardsData.length}`);
+        return (Math.random() * 100) < this.matureContentProbability;
+    }
+
+    getRandomMatureWord() {
+        // Filter out used mature words
+        const availableWords = this.matureCardsData.filter(wordString => 
+            !this.usedMatureWords.has(wordString)
+        );
+
+        if (availableWords.length === 0) {
+            // If all mature words used, fallback to normal card
+            console.log('All mature words used, falling back to normal card');
+            return null;
+        }
+
+        // Random selection
+        const randomIndex = Math.floor(Math.random() * availableWords.length);
+        const wordString = availableWords[randomIndex];
+
+        // Parse: "orgazmus (3)" → word: "orgazmus", points: 3
+        const pointsMatch = wordString.match(/\((\d+)\)$/);
+        const points = pointsMatch ? parseInt(pointsMatch[1]) : 1;
+        const word = wordString.replace(/\s*\(\d+\)$/, '');
+
+        // Mark as used
+        this.usedMatureWords.add(wordString);
+
+        // Get current player's task (NOT random!)
+        const currentPlayer = this.players[this.currentPlayerIndex];
+        const task = this.tasks[currentPlayer.taskIndex];
+
+        return {
+            category: '★',  // Mature word indicator
+            word: word,
+            points: points,
+            cardNumber: '★',
+            task: task,
+            isMature: true
+        };
     }
 
     updateLanguage() {
@@ -363,6 +424,7 @@ class ActivityGame {
 
         this.currentPlayerIndex = 0;
         this.usedCards.clear();
+        this.usedMatureWords.clear();
         this.roundNumber = 1;
         
         this.showScreen('game-screen');
@@ -416,11 +478,25 @@ class ActivityGame {
     }
 
     displayCurrentCard() {
-        const card = this.getRandomCard();
-        if (!card) return;
-
-        const wordData = this.getRandomWordFromCard(card);
-        this.currentCard = card;
+        let wordData = null;
+        
+        // Check if we should use a mature word
+        if (this.shouldUseMatureWord()) {
+            wordData = this.getRandomMatureWord();
+        }
+        
+        // If no mature word (probability didn't trigger or all used), use normal card
+        if (!wordData) {
+            const card = this.getRandomCard();
+            if (!card) return;
+            
+            wordData = this.getRandomWordFromCard(card);
+            this.currentCard = card;
+        } else {
+            // For mature words, we don't have a card object
+            this.currentCard = null;
+        }
+        
         this.currentWordData = wordData;
 
         const currentPlayer = this.players[this.currentPlayerIndex];
@@ -587,6 +663,7 @@ class ActivityGame {
         this.players = [];
         this.currentPlayerIndex = 0;
         this.usedCards.clear();
+        this.usedMatureWords.clear();
         this.roundNumber = 1;
         
         this.updatePlayersList();
