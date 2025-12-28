@@ -160,6 +160,9 @@ class ActivityGame {
             document.getElementById('dark-mode').checked = this.darkModeEnabled;
             this.updateDarkMode();
         }
+        
+        // Load saved player names
+        this.loadPlayers();
     }
 
     saveSettings() {
@@ -167,6 +170,35 @@ class ActivityGame {
         localStorage.setItem('activityGame_matureContent', this.matureContentEnabled.toString());
         localStorage.setItem('activityGame_matureFrequency', this.matureContentProbability.toString());
         localStorage.setItem('activityGame_darkMode', this.darkModeEnabled.toString());
+    }
+
+    savePlayers() {
+        const playerNames = this.players.map(player => player.name);
+        localStorage.setItem('activityGame_playerNames', JSON.stringify(playerNames));
+    }
+
+    loadPlayers() {
+        const savedNames = localStorage.getItem('activityGame_playerNames');
+        if (savedNames) {
+            try {
+                const playerNames = JSON.parse(savedNames);
+                playerNames.forEach(name => {
+                    if (name && this.players.length < 8) {
+                        const player = {
+                            id: Date.now() + Math.random(), // Ensure unique IDs
+                            name: name,
+                            score: 0,
+                            taskIndex: 0
+                        };
+                        this.players.push(player);
+                    }
+                });
+                this.updatePlayersList();
+                this.updateStartButton();
+            } catch (error) {
+                console.error('Error loading player names:', error);
+            }
+        }
     }
 
     updateMatureFrequencyVisibility() {
@@ -279,6 +311,7 @@ class ActivityGame {
 
         this.players.push(player);
         this.playerNameInput.value = '';
+        this.savePlayers(); // Save player names to localStorage
         this.updatePlayersList();
         this.updateStartButton();
         this.clearError();
@@ -286,6 +319,7 @@ class ActivityGame {
 
     removePlayer(playerId) {
         this.players = this.players.filter(player => player.id !== playerId);
+        this.savePlayers(); // Update localStorage when player is removed
         this.updatePlayersList();
         this.updateStartButton();
     }
