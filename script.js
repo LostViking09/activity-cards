@@ -23,50 +23,19 @@ class ActivityGame {
         this.matureContentProbability = 20;
         this.usedMatureWords = new Set();
         this.darkModeEnabled = false;
-        this.currentLanguage = 'hu';
         this.matureCardsData = [];
         this.wakeLock = null;
         
-        this.translations = {
-            hu: {
-                title: 'Activity Kártyajáték',
-                settings: 'Beállítások',
-                language: 'Nyelv:',
-                enableTimer: 'Időzítő engedélyezése',
-                players: 'Játékosok',
-                enterPlayerName: 'Játékos nevének megadása',
-                addPlayer: 'Játékos hozzáadása',
-                startGame: 'Játék indítása',
-                round: 'Kör',
-                cardsUsed: 'Használt kártyák',
-                scores: 'Pontszámok',
-                seconds: 'másodperc',
-                cardNumber: 'Kártya #',
-                category: 'Kategória',
-                showWord: 'Kattints a szó megjelenítéséhez',
-                points: 'pont',
-                passWord: 'Passz (Új szó)',
-                solved: 'Megoldva',
-                failed: 'Nem sikerült',
-                gameOver: 'Játék vége!',
-                totalRounds: 'Összes játszott kör',
-                totalCards: 'Összes használt kártya',
-                playersLabel: 'Játékosok',
-                newGame: 'Új játék',
-                matureContent: 'Felnőtt tartalom (18+)',
-                matureFrequency: 'Felnőtt szavak gyakorisága:',
-                darkMode: 'Sötét mód',
-                Draw: 'Rajzolás',
-                Speak: 'Körülírás',
-                Show: 'Mutogatás'
-            }
+        this.taskLabels = {
+            'Draw': 'Rajzolás',
+            'Speak': 'Körülírás',
+            'Show': 'Mutogatás'
         };
         
         this.initializeElements();
         this.loadSettings();
         this.loadCards();
         this.bindEvents();
-        this.updateLanguage();
     }
 
     initializeElements() {
@@ -111,7 +80,7 @@ class ActivityGame {
             console.log(`Loaded ${this.cardsData.length} cards`);
         } catch (error) {
             console.error('Error loading cards:', error);
-            this.showError('Failed to load card data. Please refresh the page.');
+            this.showError('Nem sikerült betölteni a kártyákat. Kérlek frissítsd az oldalt.');
         }
     }
 
@@ -194,7 +163,6 @@ class ActivityGame {
     }
 
     saveSettings() {
-        localStorage.setItem('activityGame_language', this.currentLanguage);
         localStorage.setItem('activityGame_timerEnabled', this.timerEnabled.toString());
         localStorage.setItem('activityGame_matureContent', this.matureContentEnabled.toString());
         localStorage.setItem('activityGame_matureFrequency', this.matureContentProbability.toString());
@@ -216,7 +184,7 @@ class ActivityGame {
                 console.log(`Loaded ${this.matureCardsData.length} mature words`);
             } catch (error) {
                 console.error('Error loading mature cards:', error);
-                this.showError('Failed to load mature content. Please check if the file exists.');
+                this.showError('Nem sikerült betölteni a felnőtt tartalmat. Ellenőrizd, hogy létezik-e a fájl.');
             }
         } else {
             this.matureCardsData = [];
@@ -269,34 +237,6 @@ class ActivityGame {
         };
     }
 
-    updateLanguage() {
-        const texts = this.translations[this.currentLanguage];
-        
-        // Update all elements with data-text attributes
-        document.querySelectorAll('[data-text]').forEach(element => {
-            const key = element.getAttribute('data-text');
-            if (texts[key]) {
-                element.textContent = texts[key];
-            }
-        });
-        
-        // Update placeholders
-        document.querySelectorAll('[data-placeholder]').forEach(element => {
-            const key = element.getAttribute('data-placeholder');
-            if (texts[key]) {
-                element.placeholder = texts[key];
-            }
-        });
-        
-        // Update task text in current game if playing
-        if (this.currentWordData) {
-            this.taskTextDisplay.textContent = texts[this.currentWordData.task] || this.currentWordData.task;
-        }
-        
-        // Update document language
-        document.documentElement.lang = this.currentLanguage;
-    }
-
     updateTimerVisibility() {
         const timerDisplay = document.querySelector('.timer-display');
         if (timerDisplay) {
@@ -316,17 +256,17 @@ class ActivityGame {
         const name = this.playerNameInput.value.trim();
         
         if (!name) {
-            this.showError('Please enter a player name');
+            this.showError('Kérlek adj meg egy játékos nevet');
             return;
         }
 
         if (this.players.find(player => player.name.toLowerCase() === name.toLowerCase())) {
-            this.showError('Player name already exists');
+            this.showError('Ez a játékos név már létezik');
             return;
         }
 
         if (this.players.length >= 8) {
-            this.showError('Maximum 8 players allowed');
+            this.showError('Maximum 8 játékos megengedett');
             return;
         }
 
@@ -370,12 +310,12 @@ class ActivityGame {
 
     startGame() {
         if (this.players.length < 2) {
-            this.showError('At least 2 players are required');
+            this.showError('Legalább 2 játékos szükséges');
             return;
         }
 
         if (this.cardsData.length === 0) {
-            this.showError('Card data not loaded yet. Please wait and try again.');
+            this.showError('A kártyák még betöltés alatt. Kérlek várj és próbáld újra.');
             return;
         }
 
@@ -399,7 +339,7 @@ class ActivityGame {
         );
 
         if (availableCards.length === 0) {
-            this.showError('All cards have been used!');
+            this.showError('Minden kártya felhasználásra került!');
             this.endGame();
             return null;
         }
@@ -465,10 +405,7 @@ class ActivityGame {
         this.cardNumberDisplay.textContent = wordData.cardNumber;
         this.cardCategoryDisplay.textContent = wordData.category;
         this.taskIconDisplay.textContent = this.taskIcons[taskIndex];
-        
-        // Use translated task text
-        const texts = this.translations[this.currentLanguage];
-        this.taskTextDisplay.textContent = texts[wordData.task] || wordData.task;
+        this.taskTextDisplay.textContent = this.taskLabels[wordData.task];
         
         this.cardWordDisplay.textContent = wordData.word;
         this.cardPointsDisplay.textContent = wordData.points;
